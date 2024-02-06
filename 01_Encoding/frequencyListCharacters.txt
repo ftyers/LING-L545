@@ -1,0 +1,1834 @@
+	glyph   name
+      1 	        DELETE
+      1 ¥	¥      YEN SIGN
+      1 ©	©      COPYRIGHT SIGN
+      1 Ã	Ã      LATIN CAPITAL LETTER A WITH TILDE
+      1 È	È      LATIN CAPITAL LETTER E WITH GRAVE
+      1 Î	Î      LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+      1 Õ	Õ      LATIN CAPITAL LETTER O WITH TILDE
+      1 ÿ	ÿ      LATIN SMALL LETTER Y WITH DIAERESIS
+      1 Ă	Ă      LATIN CAPITAL LETTER A WITH BREVE
+      1 Ą	Ą      LATIN CAPITAL LETTER A WITH OGONEK
+      1 Ċ	Ċ      LATIN CAPITAL LETTER C WITH DOT ABOVE
+      1 ċ	ċ      LATIN SMALL LETTER C WITH DOT ABOVE
+      1 Ę	Ę      LATIN CAPITAL LETTER E WITH OGONEK
+      1 Ĝ	Ĝ      LATIN CAPITAL LETTER G WITH CIRCUMFLEX
+      1 ĝ	ĝ      LATIN SMALL LETTER G WITH CIRCUMFLEX
+      1 Ġ	Ġ      LATIN CAPITAL LETTER G WITH DOT ABOVE
+      1 Ĥ	Ĥ      LATIN CAPITAL LETTER H WITH CIRCUMFLEX
+      1 ĥ	ĥ      LATIN SMALL LETTER H WITH CIRCUMFLEX
+      1 Ħ	Ħ      LATIN CAPITAL LETTER H WITH STROKE
+      1 Ī	Ī      LATIN CAPITAL LETTER I WITH MACRON
+      1 Į	Į      LATIN CAPITAL LETTER I WITH OGONEK
+      1 ĸ	ĸ      LATIN SMALL LETTER KRA
+      1 ň	ň      LATIN SMALL LETTER N WITH CARON
+      1 Ō	Ō      LATIN CAPITAL LETTER O WITH MACRON
+      1 Ŏ	Ŏ      LATIN CAPITAL LETTER O WITH BREVE
+      1 ŏ	ŏ      LATIN SMALL LETTER O WITH BREVE
+      1 ť	ť      LATIN SMALL LETTER T WITH CARON
+      1 ŵ	ŵ      LATIN SMALL LETTER W WITH CIRCUMFLEX
+      1 Ÿ	Ÿ      LATIN CAPITAL LETTER Y WITH DIAERESIS
+      1 Ɣ	Ɣ      LATIN CAPITAL LETTER GAMMA
+      1 ƕ	ƕ      LATIN SMALL LETTER HV
+      1 ǂ	ǂ      LATIN LETTER ALVEOLAR CLICK
+      1 ǃ	ǃ      LATIN LETTER RETROFLEX CLICK
+      1 ǎ	ǎ      LATIN SMALL LETTER A WITH CARON
+      1 ǐ	ǐ      LATIN SMALL LETTER I WITH CARON
+      1 ǒ	ǒ      LATIN SMALL LETTER O WITH CARON
+      1 ǫ	ǫ      LATIN SMALL LETTER O WITH OGONEK
+      1 Ƿ	Ƿ      LATIN CAPITAL LETTER WYNN
+      1 Ȟ	Ȟ      LATIN CAPITAL LETTER H WITH CARON
+      1 ɓ	ɓ      LATIN SMALL LETTER B WITH HOOK
+      1 ɕ	ɕ      LATIN SMALL LETTER C WITH CURL
+      1 ɖ	ɖ      LATIN SMALL LETTER D WITH TAIL
+      1 ɗ	ɗ      LATIN SMALL LETTER D WITH HOOK
+      1 ɚ	ɚ      LATIN SMALL LETTER SCHWA WITH HOOK
+      1 ɨ	ɨ      LATIN SMALL LETTER I WITH STROKE
+      1 ɮ	ɮ      LATIN SMALL LETTER LEZH
+      1 ɯ	ɯ      LATIN SMALL LETTER TURNED M
+      1 ɴ	ɴ      LATIN LETTER SMALL CAPITAL N
+      1 ɻ	ɻ      LATIN SMALL LETTER TURNED R WITH HOOK
+      1 ʂ	ʂ      LATIN SMALL LETTER S WITH HOOK
+      1 ʄ	ʄ      LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+      1 ʉ	ʉ      LATIN SMALL LETTER U BAR
+      1 ʍ	ʍ      LATIN SMALL LETTER TURNED W
+      1 ʎ	ʎ      LATIN SMALL LETTER TURNED Y
+      1 ʏ	ʏ      LATIN LETTER SMALL CAPITAL Y
+      1 ʜ	ʜ      LATIN LETTER SMALL CAPITAL H
+      1 ʝ	ʝ      LATIN SMALL LETTER J WITH CROSSED-TAIL
+      1 ʱ	ʱ      MODIFIER LETTER SMALL H WITH HOOK
+      1 ˉ	ˉ      MODIFIER LETTER MACRON
+      1 ˊ	ˊ      MODIFIER LETTER ACUTE ACCENT
+      1 ˋ	ˋ      MODIFIER LETTER GRAVE ACCENT
+      1 ˘	˘      BREVE
+      1 ˚	˚      RING ABOVE
+      1 Ί	Ί      GREEK CAPITAL LETTER IOTA WITH TONOS
+      1 Ό	Ό      GREEK CAPITAL LETTER OMICRON WITH TONOS
+      1 ϋ	ϋ      GREEK SMALL LETTER UPSILON WITH DIALYTIKA
+      1 ϑ	ϑ      GREEK THETA SYMBOL
+      1 ϧ	ϧ      COPTIC SMALL LETTER KHEI
+      1 Ϯ	Ϯ      COPTIC CAPITAL LETTER DEI
+      1 Й	Й      CYRILLIC CAPITAL LETTER SHORT I
+      1 Ъ	Ъ      CYRILLIC CAPITAL LETTER HARD SIGN
+      1 љ	љ      CYRILLIC SMALL LETTER LJE
+      1 њ	њ      CYRILLIC SMALL LETTER NJE
+      1 ѝ	ѝ      CYRILLIC SMALL LETTER I WITH GRAVE
+      1 ѭ	ѭ      CYRILLIC SMALL LETTER IOTIFIED BIG YUS
+      1 ѹ	ѹ      CYRILLIC SMALL LETTER UK
+      1 ң	ң      CYRILLIC SMALL LETTER EN WITH DESCENDER
+      1 ҥ	ҥ      CYRILLIC SMALL LIGATURE EN GHE
+      1 Ҧ	Ҧ      CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK
+      1 ү	ү      CYRILLIC SMALL LETTER STRAIGHT U
+      1 ҷ	ҷ      CYRILLIC SMALL LETTER CHE WITH DESCENDER
+      1 Ө	Ө      CYRILLIC CAPITAL LETTER BARRED O
+      1 Ղ	Ղ      ARMENIAN CAPITAL LETTER GHAD
+      1 Ո	Ո      ARMENIAN CAPITAL LETTER VO
+      1 Ց	Ց      ARMENIAN CAPITAL LETTER CO
+      1 Օ	Օ      ARMENIAN CAPITAL LETTER OH
+      1 ժ	ժ      ARMENIAN SMALL LETTER ZHE
+      1 խ	խ      ARMENIAN SMALL LETTER XEH
+      1 װ	װ      HEBREW LIGATURE YIDDISH DOUBLE VAV
+      1 ٱ	ٱ      ARABIC LETTER ALEF WASLA
+      1 ژ	ژ      ARABIC LETTER JEH
+      1 ڭ	ڭ      ARABIC LETTER NG
+      1 ۍ	ۍ      ARABIC LETTER YEH WITH TAIL
+      1 ے	ے      ARABIC LETTER YEH BARREE
+      1 ە	ە      ARABIC LETTER AE
+      1 ܙ	ܙ      SYRIAC LETTER ZAIN
+      1 ܩ	ܩ      SYRIAC LETTER QAPH
+      1 މ	މ      THAANA LETTER MEEMU
+      1 ލ	ލ      THAANA LETTER LAAMU
+      1 ߊ	ߊ      NKO LETTER A
+      1 ߌ	ߌ      NKO LETTER I
+      1 ߐ	ߐ      NKO LETTER O
+      1 ߙ	ߙ      NKO LETTER RA
+      1 ߣ	ߣ      NKO LETTER NA
+      1 अ	अ      DEVANAGARI LETTER A
+      1 आ	आ      DEVANAGARI LETTER AA
+      1 ई	ई      DEVANAGARI LETTER II
+      1 उ	उ      DEVANAGARI LETTER U
+      1 ए	ए      DEVANAGARI LETTER E
+      1 ङ	ङ      DEVANAGARI LETTER NGA
+      1 च	च      DEVANAGARI LETTER CA
+      1 ठ	ठ      DEVANAGARI LETTER TTHA
+      1 थ	थ      DEVANAGARI LETTER THA
+      1 ब	ब      DEVANAGARI LETTER BA
+      1 ौ	ौ      DEVANAGARI VOWEL SIGN AU
+      1 গ	গ      BENGALI LETTER GA
+      1 চ	চ      BENGALI LETTER CA
+      1 ঢ	ঢ      BENGALI LETTER DDHA
+      1 ত	ত      BENGALI LETTER TA
+      1 ম	ম      BENGALI LETTER MA
+      1 র	র      BENGALI LETTER RA
+      1 ল	ল      BENGALI LETTER LA
+      1 ਖ	ਖ      GURMUKHI LETTER KHA
+      1 ਘ	ਘ      GURMUKHI LETTER GHA
+      1 ਲ	ਲ      GURMUKHI LETTER LA
+      1 ઈ	ઈ      GUJARATI LETTER II
+      1 ટ	ટ      GUJARATI LETTER TTA
+      1 પ	પ      GUJARATI LETTER PA
+      1 વ	વ      GUJARATI LETTER VA
+      1 ા	ા      GUJARATI VOWEL SIGN AA
+      1 அ	அ      TAMIL LETTER A
+      1 ட	ட      TAMIL LETTER TTA
+      1 ண	ண      TAMIL LETTER NNA
+      1 ந	ந      TAMIL LETTER NA
+      1 ள	ள      TAMIL LETTER LLA
+      1 வ	வ      TAMIL LETTER VA
+      1 ை	ை      TAMIL VOWEL SIGN AI
+      1 ொ	ொ      TAMIL VOWEL SIGN O
+      1 ோ	ோ      TAMIL VOWEL SIGN OO
+      1 ం	ం      TELUGU SIGN ANUSVARA
+      1 గ	గ      TELUGU LETTER GA
+      1 మ	మ      TELUGU LETTER MA
+      1 స	స      TELUGU LETTER SA
+      1 ు	ు      TELUGU VOWEL SIGN U
+      1 ಂ	ಂ      KANNADA SIGN ANUSVARA
+      1 ಗ	ಗ      KANNADA LETTER GA
+      1 ಮ	ಮ      KANNADA LETTER MA
+      1 ಸ	ಸ      KANNADA LETTER SA
+      1 ು	ು      KANNADA VOWEL SIGN U
+      1 ක	ක      SINHALA LETTER ALPAPRAANA KAYANNA
+      1 ඹ	ඹ      SINHALA LETTER AMBA BAYANNA
+      1 ළ	ළ      SINHALA LETTER MUURDHAJA LAYANNA
+      1 ො	ො      SINHALA VOWEL SIGN KOMBUVA HAA AELA-PILLA
+      1 ข	ข      THAI CHARACTER KHO KHAI
+      1 ค	ค      THAI CHARACTER KHO KHWAI
+      1 ช	ช      THAI CHARACTER CHO CHANG
+      1 ญ	ญ      THAI CHARACTER YO YING
+      1 บ	บ      THAI CHARACTER BO BAIMAI
+      1 ภ	ภ      THAI CHARACTER PHO SAMPHAO
+      1 ว	ว      THAI CHARACTER WO WAEN
+      1 ศ	ศ      THAI CHARACTER SO SALA
+      1 ส	ส      THAI CHARACTER SO SUA
+      1 ห	ห      THAI CHARACTER HO HIP
+      1 ฯ	ฯ      THAI CHARACTER PAIYANNOI
+      1 ะ	ะ      THAI CHARACTER SARA A
+      1 ไ	ไ      THAI CHARACTER SARA AI MAIMALAI
+      1 ຈ	ຈ      LAO LETTER CO
+      1 ນ	ນ      LAO LETTER NO
+      1 ມ	ມ      LAO LETTER MO
+      1 ລ	ລ      LAO LETTER LO LOOT
+      1 ອ	ອ      LAO LETTER O
+      1 າ	າ      LAO VOWEL SIGN AA
+      1 ຽ	ຽ      LAO SEMIVOWEL SIGN NYO
+      1 ເ	ເ      LAO VOWEL SIGN E
+      1 ཁ	ཁ      TIBETAN LETTER KHA
+      1 ང	ང      TIBETAN LETTER NGA
+      1 ཆ	ཆ      TIBETAN LETTER CHA
+      1 ཇ	ཇ      TIBETAN LETTER JA
+      1 ད	ད      TIBETAN LETTER DA
+      1 པ	པ      TIBETAN LETTER PA
+      1 ཞ	ཞ      TIBETAN LETTER ZHA
+      1 འ	འ      TIBETAN LETTER -A
+      1 ཡ	ཡ      TIBETAN LETTER YA
+      1 ལ	ལ      TIBETAN LETTER LA
+      1 გ	გ      GEORGIAN LETTER GAN
+      1 პ	პ      GEORGIAN LETTER PAR
+      1 ღ	ღ      GEORGIAN LETTER GHAN
+      1 ც	ც      GEORGIAN LETTER CAN
+      1 წ	წ      GEORGIAN LETTER CIL
+      1 ხ	ხ      GEORGIAN LETTER XAN
+      1 ሌ	ሌ      ETHIOPIC SYLLABLE LEE
+      1 ሐ	ሐ      ETHIOPIC SYLLABLE HHA
+      1 ሕ	ሕ      ETHIOPIC SYLLABLE HHE
+      1 ም	ም      ETHIOPIC SYLLABLE ME
+      1 ሠ	ሠ      ETHIOPIC SYLLABLE SZA
+      1 ሱ	ሱ      ETHIOPIC SYLLABLE SU
+      1 ሳ	ሳ      ETHIOPIC SYLLABLE SAA
+      1 ቃ	ቃ      ETHIOPIC SYLLABLE QAA
+      1 በ	በ      ETHIOPIC SYLLABLE BA
+      1 ባ	ባ      ETHIOPIC SYLLABLE BAA
+      1 ቤ	ቤ      ETHIOPIC SYLLABLE BEE
+      1 ብ	ብ      ETHIOPIC SYLLABLE BE
+      1 ቲ	ቲ      ETHIOPIC SYLLABLE TI
+      1 ታ	ታ      ETHIOPIC SYLLABLE TAA
+      1 ቶ	ቶ      ETHIOPIC SYLLABLE TO
+      1 ነ	ነ      ETHIOPIC SYLLABLE NA
+      1 ኢ	ኢ      ETHIOPIC SYLLABLE GLOTTAL I
+      1 ኤ	ኤ      ETHIOPIC SYLLABLE GLOTTAL EE
+      1 ኦ	ኦ      ETHIOPIC SYLLABLE GLOTTAL O
+      1 ኩ	ኩ      ETHIOPIC SYLLABLE KU
+      1 ዋ	ዋ      ETHIOPIC SYLLABLE WAA
+      1 ዑ	ዑ      ETHIOPIC SYLLABLE PHARYNGEAL U
+      1 ዒ	ዒ      ETHIOPIC SYLLABLE PHARYNGEAL I
+      1 የ	የ      ETHIOPIC SYLLABLE YA
+      1 ዬ	ዬ      ETHIOPIC SYLLABLE YEE
+      1 ዮ	ዮ      ETHIOPIC SYLLABLE YO
+      1 ደ	ደ      ETHIOPIC SYLLABLE DA
+      1 ዲ	ዲ      ETHIOPIC SYLLABLE DI
+      1 ገ	ገ      ETHIOPIC SYLLABLE GA
+      1 ጋ	ጋ      ETHIOPIC SYLLABLE GAA
+      1 ጵ	ጵ      ETHIOPIC SYLLABLE PHE
+      1 ጽ	ጽ      ETHIOPIC SYLLABLE TSE
+      1 ፋ	ፋ      ETHIOPIC SYLLABLE FAA
+      1 Ꮎ	Ꮎ      CHEROKEE LETTER NA
+      1 Ꮟ	Ꮟ      CHEROKEE LETTER SI
+      1 Ꮤ	Ꮤ      CHEROKEE LETTER TA
+      1 ᐋ	ᐋ      CANADIAN SYLLABICS AA
+      1 ᐙ	ᐙ      CANADIAN SYLLABICS WAA
+      1 ᐤ	ᐤ      CANADIAN SYLLABICS FINAL RING
+      1 ᐯ	ᐯ      CANADIAN SYLLABICS PE
+      1 ᐲ	ᐲ      CANADIAN SYLLABICS PII
+      1 ᑌ	ᑌ      CANADIAN SYLLABICS TE
+      1 ᑖ	ᑖ      CANADIAN SYLLABICS TAA
+      1 ᑫ	ᑫ      CANADIAN SYLLABICS KE
+      1 ᑿ	ᑿ      CANADIAN SYLLABICS WEST-CREE KWA
+      1 ᒋ	ᒋ      CANADIAN SYLLABICS CI
+      1 ᒥ	ᒥ      CANADIAN SYLLABICS MI
+      1 ᒦ	ᒦ      CANADIAN SYLLABICS MII
+      1 ᓰ	ᓰ      CANADIAN SYLLABICS SII
+      1 ᔅ	ᔅ      CANADIAN SYLLABICS S
+      1 ᔑ	ᔑ      CANADIAN SYLLABICS SHI
+      1 ᔥ	ᔥ      CANADIAN SYLLABICS SH
+      1 ᕈ	ᕈ      CANADIAN SYLLABICS RO
+      1 ᕕ	ᕕ      CANADIAN SYLLABICS FI
+      1 ᕗ	ᕗ      CANADIAN SYLLABICS FO
+      1 ᕙ	ᕙ      CANADIAN SYLLABICS FA
+      1 ᕽ	ᕽ      CANADIAN SYLLABICS HK
+      1 ᕿ	ᕿ      CANADIAN SYLLABICS QI
+      1 ᖃ	ᖃ      CANADIAN SYLLABICS QA
+      1 ᖑ	ᖑ      CANADIAN SYLLABICS NGO
+      1 ᖕ	ᖕ      CANADIAN SYLLABICS NG
+      1 ᚱ	ᚱ      RUNIC LETTER RAIDO RAD REID R
+      1 ᚲ	ᚲ      RUNIC LETTER KAUNA
+      1 ᚷ	ᚷ      RUNIC LETTER GEBO GYFU G
+      1 ᚾ	ᚾ      RUNIC LETTER NAUDIZ NYD NAUD N
+      1 ᛃ	ᛃ      RUNIC LETTER JERAN J
+      1 ᛊ	ᛊ      RUNIC LETTER SOWILO S
+      1 ᛞ	ᛞ      RUNIC LETTER DAGAZ DAEG D
+      1 ᛣ	ᛣ      RUNIC LETTER CALC
+      1 ត	ត      KHMER LETTER TA
+      1 ប	ប      KHMER LETTER BA
+      1 ព	ព      KHMER LETTER PO
+      1 ល	ល      KHMER LETTER LO
+      1 ᠨ	ᠨ      MONGOLIAN LETTER NA
+      1 ᠲ	ᠲ      MONGOLIAN LETTER TA
+      1 ᠳ	ᠳ      MONGOLIAN LETTER DA
+      1 ᠷ	ᠷ      MONGOLIAN LETTER RA
+      1 ᵹ	ᵹ      LATIN SMALL LETTER INSULAR G
+      1 ᶞ	ᶞ      MODIFIER LETTER SMALL ETH
+      1 ᶢ	ᶢ      MODIFIER LETTER SMALL SCRIPT G
+      1 ḇ	ḇ      LATIN SMALL LETTER B WITH LINE BELOW
+      1 Ḵ	Ḵ      LATIN CAPITAL LETTER K WITH LINE BELOW
+      1 ṇ	ṇ      LATIN SMALL LETTER N WITH DOT BELOW
+      1 Ṛ	Ṛ      LATIN CAPITAL LETTER R WITH DOT BELOW
+      1 ṛ	ṛ      LATIN SMALL LETTER R WITH DOT BELOW
+      1 Ṣ	Ṣ      LATIN CAPITAL LETTER S WITH DOT BELOW
+      1 Ṯ	Ṯ      LATIN CAPITAL LETTER T WITH LINE BELOW
+      1 ṯ	ṯ      LATIN SMALL LETTER T WITH LINE BELOW
+      1 Ẓ	Ẓ      LATIN CAPITAL LETTER Z WITH DOT BELOW
+      1 ạ	ạ      LATIN SMALL LETTER A WITH DOT BELOW
+      1 ả	ả      LATIN SMALL LETTER A WITH HOOK ABOVE
+      1 ẹ	ẹ      LATIN SMALL LETTER E WITH DOT BELOW
+      1 ẻ	ẻ      LATIN SMALL LETTER E WITH HOOK ABOVE
+      1 ỉ	ỉ      LATIN SMALL LETTER I WITH HOOK ABOVE
+      1 ị	ị      LATIN SMALL LETTER I WITH DOT BELOW
+      1 ọ	ọ      LATIN SMALL LETTER O WITH DOT BELOW
+      1 ỏ	ỏ      LATIN SMALL LETTER O WITH HOOK ABOVE
+      1 ụ	ụ      LATIN SMALL LETTER U WITH DOT BELOW
+      1 ủ	ủ      LATIN SMALL LETTER U WITH HOOK ABOVE
+      1 ἁ	ἁ      GREEK SMALL LETTER ALPHA WITH DASIA
+      1 ἅ	ἅ      GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
+      1 ἕ	ἕ      GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
+      1 Ἕ	Ἕ      GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
+      1 ἤ	ἤ      GREEK SMALL LETTER ETA WITH PSILI AND OXIA
+      1 Ὄ	Ὄ      GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
+      1 ὑ	ὑ      GREEK SMALL LETTER UPSILON WITH DASIA
+      1 ὔ	ὔ      GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+      1 ὖ	ὖ      GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+      1 Ὑ	Ὑ      GREEK CAPITAL LETTER UPSILON WITH DASIA
+      1 ὠ	ὠ      GREEK SMALL LETTER OMEGA WITH PSILI
+      1 ὤ	ὤ      GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
+      1 ὲ	ὲ      GREEK SMALL LETTER EPSILON WITH VARIA
+      1 ὼ	ὼ      GREEK SMALL LETTER OMEGA WITH VARIA
+      1 ᾄ	ᾄ      GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+      1 ᾰ	ᾰ      GREEK SMALL LETTER ALPHA WITH VRACHY
+      1 ᾱ	ᾱ      GREEK SMALL LETTER ALPHA WITH MACRON
+      1 ᾳ	ᾳ      GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI
+      1 ῇ	ῇ      GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI
+      1 Ὴ	Ὴ      GREEK CAPITAL LETTER ETA WITH VARIA
+      1 ῤ	ῤ      GREEK SMALL LETTER RHO WITH PSILI
+      1 ῥ	ῥ      GREEK SMALL LETTER RHO WITH DASIA
+      1 ῴ	ῴ      GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI
+      1 ῾	῾      GREEK DASIA
+      1  	        HAIR SPACE
+      1 ⁿ	ⁿ      SUPERSCRIPT LATIN SMALL LETTER N
+      1 ₢	₢      CRUZEIRO SIGN
+      1 ₧	₧      PESETA SIGN
+      1 ₿	₿      Undefined in range Currency Symbols
+      1 №	№      NUMERO SIGN
+      1 ℛ	ℛ      SCRIPT CAPITAL R
+      1 ℳ	ℳ      SCRIPT CAPITAL M
+      1 ∅	∅      EMPTY SET
+      1 ∞	∞      INFINITY
+      1 ≈	≈      ALMOST EQUAL TO
+      1 ≥	≥      GREATER-THAN OR EQUAL TO
+      1 ◌	◌      DOTTED CIRCLE
+      1 ☣	☣      BIOHAZARD SIGN
+      1 ✝	✝      LATIN CROSS
+      1 Ⰲ	Ⰲ      GLAGOLITIC CAPITAL LETTER VEDE
+      1 Ⰸ	Ⰸ      GLAGOLITIC CAPITAL LETTER ZEMLJA
+      1 Ⰺ	Ⰺ      GLAGOLITIC CAPITAL LETTER INITIAL IZHE
+      1 Ⰾ	Ⰾ      GLAGOLITIC CAPITAL LETTER LJUDIJE
+      1 Ⱀ	Ⱀ      GLAGOLITIC CAPITAL LETTER NASHI
+      1 Ⱁ	Ⱁ      GLAGOLITIC CAPITAL LETTER ONU
+      1 Ⱐ	Ⱐ      GLAGOLITIC CAPITAL LETTER YERI
+      1 Ⱑ	Ⱑ      GLAGOLITIC CAPITAL LETTER YATI
+      1 Ⱗ	Ⱗ      GLAGOLITIC CAPITAL LETTER IOTATED SMALL YUS
+      1 Ⲅ	Ⲅ      COPTIC CAPITAL LETTER GAMMA
+      1 ⲅ	ⲅ      COPTIC SMALL LETTER GAMMA
+      1 ⲉ	ⲉ      COPTIC SMALL LETTER EIE
+      1 ⲓ	ⲓ      COPTIC SMALL LETTER IAUDA
+      1 ⲣ	ⲣ      COPTIC SMALL LETTER RO
+      1 ⲥ	ⲥ      COPTIC SMALL LETTER SIMA
+      1 ⴳ	ⴳ      TIFINAGH LETTER YAG
+      1 ⵃ	ⵃ      TIFINAGH LETTER YAHH
+      1 ⵇ	ⵇ      TIFINAGH LETTER YAQ
+      1 ⵢ	ⵢ      TIFINAGH LETTER YAY
+      1 う	う      HIRAGANA LETTER U
+      1 が	が      HIRAGANA LETTER GA
+      1 じ	じ      HIRAGANA LETTER ZI
+      1 つ	つ      HIRAGANA LETTER TU
+      1 て	て      HIRAGANA LETTER TE
+      1 と	と      HIRAGANA LETTER TO
+      1 な	な      HIRAGANA LETTER NA
+      1 に	に      HIRAGANA LETTER NI
+      1 は	は      HIRAGANA LETTER HA
+      1 ば	ば      HIRAGANA LETTER BA
+      1 び	び      HIRAGANA LETTER BI
+      1 べ	べ      HIRAGANA LETTER BE
+      1 め	め      HIRAGANA LETTER ME
+      1 ゆ	ゆ      HIRAGANA LETTER YU
+      1 よ	よ      HIRAGANA LETTER YO
+      1 る	る      HIRAGANA LETTER RU
+      1 れ	れ      HIRAGANA LETTER RE
+      1 ァ	ァ      KATAKANA LETTER SMALL A
+      1 グ	グ      KATAKANA LETTER GU
+      1 コ	コ      KATAKANA LETTER KO
+      1 ゴ	ゴ      KATAKANA LETTER GO
+      1 サ	サ      KATAKANA LETTER SA
+      1 ゼ	ゼ      KATAKANA LETTER ZE
+      1 ダ	ダ      KATAKANA LETTER DA
+      1 ナ	ナ      KATAKANA LETTER NA
+      1 バ	バ      KATAKANA LETTER BA
+      1 ヒ	ヒ      KATAKANA LETTER HI
+      1 ビ	ビ      KATAKANA LETTER BI
+      1 ベ	ベ      KATAKANA LETTER BE
+      1 ホ	ホ      KATAKANA LETTER HO
+      1 ム	ム      KATAKANA LETTER MU
+      1 メ	メ      KATAKANA LETTER ME
+      1 ャ	ャ      KATAKANA LETTER SMALL YA
+      1 ヤ	ヤ      KATAKANA LETTER YA
+      1 ュ	ュ      KATAKANA LETTER SMALL YU
+      1 レ	レ      KATAKANA LETTER RE
+      1 七	七      CJK character Nelson  261
+      1 与	与      CJK character Nelson    6
+      1 业	业      CJK character Nelson   20
+      1 久	久      CJK character Nelson  153
+      1 乌	乌      Unknown character in range CJK Unified Ideographs
+      1 九	九      CJK character Nelson  146
+      1 习	习      Unknown character in range CJK Unified Ideographs
+      1 乡	乡      Unknown character in range CJK Unified Ideographs
+      1 事	事      CJK character Nelson  272
+      1 云	云      CJK character Nelson  274
+      1 仕	仕      CJK character Nelson  362
+      1 仗	仗      CJK character Nelson  357
+      1 仙	仙      CJK character Nelson  359
+      1 件	件      CJK character Nelson  368
+      1 份	份      Unknown character in range CJK Unified Ideographs
+      1 伊	伊      CJK character Nelson  372
+      1 会	会      CJK character Nelson  381
+      1 传	传      Unknown character in range CJK Unified Ideographs
+      1 伦	伦      Unknown character in range CJK Unified Ideographs
+      1 伯	伯      CJK character Nelson  397
+      1 似	似      CJK character Nelson  376
+      1 佐	佐      CJK character Nelson  392
+      1 作	作      CJK character Nelson  407
+      1 使	使      CJK character Nelson  432
+      1 侍	侍      CJK character Nelson  427
+      1 俊	俊      CJK character Nelson  448
+      1 俗	俗      CJK character Nelson  453
+      1 俳	俳      CJK character Nelson  485
+      1 倉	倉      CJK character Nelson  486
+      1 倍	倍      CJK character Nelson  483
+      1 倫	倫      CJK character Nelson  474
+      1 像	像      CJK character Nelson  540
+      1 允	允      CJK character Nelson  843
+      1 兄	兄      CJK character Nelson  875
+      1 克	克      CJK character Nelson  772
+      1 兎	兎      CJK character Nelson  198
+      1 児	児      CJK character Nelson  572
+      1 入	入      CJK character Nelson  574
+      1 八	八      CJK character Nelson  577
+      1 兰	兰      Unknown character in range CJK Unified Ideographs
+      1 凛	凛      CJK character Nelson  651
+      1 出	出      CJK character Nelson 1408,  97
+      1 分	分      CJK character Nelson  578
+      1 列	列      CJK character Nelson 2438
+      1 初	初      CJK character Nelson 4215
+      1 別	別      CJK character Nelson  674
+      1 創	創      CJK character Nelson  702
+      1 劇	劇      CJK character Nelson  247
+      1 功	功      CJK character Nelson 1454
+      1 劳	劳      Unknown character in range CJK Unified Ideographs
+      1 勅	勅      CJK character Nelson  725,2048
+      1 勘	勘      CJK character Nelson  729
+      1 勤	勤      CJK character Nelson  732, 733
+      1 化	化      CJK character Nelson  350
+      1 十	十      CJK character Nelson  768
+      1 半	半      CJK character Nelson  132, 167
+      1 华	华      Unknown character in range CJK Unified Ideographs
+      1 卢	卢      Unknown character in range CJK Unified Ideographs
+      1 卿	卿      CJK character Nelson  813
+      1 县	县      Unknown character in range CJK Unified Ideographs
+      1 叠	叠      Unknown character in range CJK Unified Ideographs
+      1 句	句      CJK character Nelson  745
+      1 合	合      CJK character Nelson  383
+      1 吕	吕      Unknown character in range CJK Unified Ideographs
+      1 君	君      CJK character Nelson  899
+      1 周	周      CJK character Nelson  622
+      1 呼	呼      CJK character Nelson  914
+      1 哲	哲      CJK character Nelson  931
+      1 商	商      CJK character Nelson  278, 321
+      1 啓	啓      CJK character Nelson  940
+      1 喰	喰      CJK character Nelson  955
+      1 嘉	嘉      CJK character Nelson 1136
+      1 土	土      CJK character Nelson 1050
+      1 在	在      CJK character Nelson 1055
+      1 坂	坂      CJK character Nelson 1061
+      1 块	块      Unknown character in range CJK Unified Ideographs
+      1 場	場      CJK character Nelson 1113
+      1 塊	塊      CJK character Nelson 1122
+      1 夏	夏      CJK character Nelson   58
+      1 外	外      CJK character Nelson 1168
+      1 始	始      CJK character Nelson 1208
+      1 姚	姚      Unknown character in range CJK Unified Ideographs
+      1 姜	姜      CJK character Nelson 3657
+      1 姦	姦      CJK character Nelson 1217
+      1 威	威      CJK character Nelson 1803
+      1 媒	媒      CJK character Nelson 1241
+      1 嬢	嬢      CJK character Nelson 1257
+      1 孔	孔      CJK character Nelson 1265
+      1 孝	孝      CJK character Nelson  773
+      1 孟	孟      CJK character Nelson 1269
+      1 季	季      CJK character Nelson 3266
+      1 学	学      CJK character Nelson 1271
+      1 學	學      CJK character Nelson 1275
+      1 宜	宜      CJK character Nelson 1290
+      1 宝	宝      CJK character Nelson 1293
+      1 審	審      CJK character Nelson 1341
+      1 寿	寿      CJK character Nelson  194
+      1 尾	尾      CJK character Nelson 1383
+      1 居	居      CJK character Nelson 1387
+      1 屋	屋      CJK character Nelson 1392
+      1 屎	屎      CJK character Nelson 1390
+      1 岡	岡      CJK character Nelson  621
+      1 岩	岩      CJK character Nelson 1414
+      1 岸	岸      CJK character Nelson 1413
+      1 峡	峡      CJK character Nelson 1417
+      1 峰	峰      CJK character Nelson 1423
+      1 崎	崎      CJK character Nelson 1426
+      1 嶋	嶋      CJK character Nelson 1434,5343
+      1 嶌	嶌      Unknown character in range CJK Unified Ideographs
+      1 布	布      CJK character Nelson 1468
+      1 帆	帆      CJK character Nelson 1469
+      1 希	希      CJK character Nelson 1470
+      1 常	常      CJK character Nelson 1364
+      1 幌	幌      CJK character Nelson 1485
+      1 年	年      CJK character Nelson  188
+      1 幸	幸      CJK character Nelson 1073
+      1 床	床      CJK character Nelson 1503
+      1 庙	庙      Unknown character in range CJK Unified Ideographs
+      1 座	座      CJK character Nelson 1515,1517
+      1 庫	庫      CJK character Nelson 1512
+      1 庭	庭      CJK character Nelson 1514
+      1 庵	庵      CJK character Nelson 1521
+      1 康	康      CJK character Nelson 1518
+      1 廟	廟      CJK character Nelson 1538
+      1 廷	廷      CJK character Nelson 1546
+      1 式	式      CJK character Nelson 1556
+      1 弓	弓      CJK character Nelson 1560
+      1 弟	弟      CJK character Nelson  584
+      1 当	当      CJK character Nelson 1359
+      1 彦	彦      CJK character Nelson 3347
+      1 彰	彰      CJK character Nelson 1593
+      1 御	御      CJK character Nelson 1628
+      1 徳	徳      CJK character Nelson 1633
+      1 心	心      CJK character Nelson 1645
+      1 念	念      CJK character Nelson  424
+      1 怪	怪      CJK character Nelson 1665
+      1 恩	恩      CJK character Nelson 1684
+      1 悪	悪      CJK character Nelson   62
+      1 情	情      CJK character Nelson 1714
+      1 惠	惠      CJK character Nelson 1702
+      1 慕	慕      CJK character Nelson 4040
+      1 戦	戦      CJK character Nelson 1814,1810
+      1 才	才      CJK character Nelson  270
+      1 打	打      CJK character Nelson 1829
+      1 护	护      Unknown character in range CJK Unified Ideographs
+      1 拓	拓      CJK character Nelson 1873
+      1 捨	捨      CJK character Nelson 1944
+      1 提	提      CJK character Nelson 1967
+      1 摩	摩      CJK character Nelson 5392
+      1 政	政      CJK character Nelson 2045
+      1 故	故      CJK character Nelson 2044
+      1 敏	敏      CJK character Nelson 2047
+      1 斎	斎      CJK character Nelson 5425
+      1 斯	斯      CJK character Nelson 2079
+      1 方	方      CJK character Nelson 2082
+      1 施	施      CJK character Nelson 2085
+      1 早	早      CJK character Nelson 2100
+      1 昌	昌      CJK character Nelson 2105
+      1 明	明      CJK character Nelson 2110
+      1 星	星      CJK character Nelson 2121
+      1 映	映      CJK character Nelson 2118
+      1 昭	昭      CJK character Nelson 2114
+      1 時	時      CJK character Nelson 2126
+      1 暗	暗      CJK character Nelson 2154
+      1 書	書      CJK character Nelson 3719
+      1 會	會      CJK character Nelson  522
+      1 朗	朗      CJK character Nelson 3762
+      1 札	札      CJK character Nelson 2171
+      1 杉	杉      CJK character Nelson 2190
+      1 杨	杨      Unknown character in range CJK Unified Ideographs
+      1 枝	枝      CJK character Nelson 2211
+      1 柱	柱      CJK character Nelson 2236
+      1 株	株      CJK character Nelson 2257
+      1 栽	栽      CJK character Nelson  781
+      1 桂	桂      CJK character Nelson 2253
+      1 桜	桜      CJK character Nelson 2256
+      1 條	條      CJK character Nelson  492
+      1 梦	梦      Unknown character in range CJK Unified Ideographs
+      1 橋	橋      CJK character Nelson 2378
+      1 歐	歐      CJK character Nelson 2423
+      1 死	死      CJK character Nelson 2439
+      1 殿	殿      CJK character Nelson  242
+      1 母	母      CJK character Nelson 2466
+      1 比	比      CJK character Nelson 2470
+      1 沅	沅      Unknown character in range CJK Unified Ideographs
+      1 沒	沒      Unknown character in range CJK Unified Ideographs
+      1 沧	沧      Unknown character in range CJK Unified Ideographs
+      1 治	治      CJK character Nelson 2528
+      1 泉	泉      CJK character Nelson 3099
+      1 波	波      CJK character Nelson 2529
+      1 洋	洋      CJK character Nelson 2550
+      1 浦	浦      CJK character Nelson 2571
+      1 浪	浪      CJK character Nelson 2570
+      1 淡	淡      CJK character Nelson 2602
+      1 淫	淫      CJK character Nelson 2603
+      1 淳	淳      CJK character Nelson 2590
+      1 清	清      CJK character Nelson 2605
+      1 渤	渤      Unknown character in range CJK Unified Ideographs
+      1 港	港      CJK character Nelson 2582,2630
+      1 湄	湄      Unknown character in range CJK Unified Ideographs
+      1 湖	湖      CJK character Nelson 2628
+      1 満	満      CJK character Nelson 2636
+      1 满	满      Unknown character in range CJK Unified Ideographs
+      1 滨	滨      Unknown character in range CJK Unified Ideographs
+      1 澜	澜      Unknown character in range CJK Unified Ideographs
+      1 濱	濱      CJK character Nelson 2716
+      1 炉	炉      CJK character Nelson 2750
+      1 烈	烈      CJK character Nelson 2761
+      1 無	無      CJK character Nelson 2773
+      1 然	然      CJK character Nelson 2770
+      1 燕	燕      CJK character Nelson 4070
+      1 爐	爐      CJK character Nelson 2819
+      1 爵	爵      CJK character Nelson 2830,2831
+      1 爾	爾      CJK character Nelson   69, 575
+      1 牛	牛      CJK character Nelson 2852
+      1 特	特      CJK character Nelson 2860
+      1 狐	狐      CJK character Nelson 2878
+      1 狗	狗      CJK character Nelson 2875
+      1 獅	獅      CJK character Nelson 2904
+      1 獒	獒      Unknown character in range CJK Unified Ideographs
+      1 玛	玛      Unknown character in range CJK Unified Ideographs
+      1 环	环      Unknown character in range CJK Unified Ideographs
+      1 现	现      Unknown character in range CJK Unified Ideographs
+      1 珍	珍      CJK character Nelson 2933
+      1 理	理      CJK character Nelson 2942
+      1 琏	琏      Unknown character in range CJK Unified Ideographs
+      1 琼	琼      Unknown character in range CJK Unified Ideographs
+      1 璠	璠      Unknown character in range CJK Unified Ideographs
+      1 璿	璿      Unknown character in range CJK Unified Ideographs
+      1 瓊	瓊      Unknown character in range CJK Unified Ideographs
+      1 甘	甘      CJK character Nelson 2988
+      1 甫	甫      CJK character Nelson  135
+      1 番	番      CJK character Nelson 4811
+      1 疊	疊      CJK character Nelson 3017
+      1 疑	疑      CJK character Nelson  755
+      1 疲	疲      CJK character Nelson 3040
+      1 白	白      CJK character Nelson 3095
+      1 盆	盆      CJK character Nelson  594
+      1 盈	盈      CJK character Nelson 3114
+      1 益	益      CJK character Nelson  597
+      1 盤	盤      CJK character Nelson 3122
+      1 矢	矢      CJK character Nelson 3168
+      1 短	短      CJK character Nelson 3172
+      1 研	研      CJK character Nelson 3180,3187
+      1 祖	祖      CJK character Nelson 3243
+      1 祝	祝      CJK character Nelson 3244
+      1 祭	祭      CJK character Nelson 3247
+      1 秀	秀      CJK character Nelson 3263
+      1 秦	秦      CJK character Nelson 3274
+      1 穂	穂      CJK character Nelson 3300
+      1 穆	穆      Unknown character in range CJK Unified Ideographs
+      1 穌	穌      Unknown character in range CJK Unified Ideographs
+      1 究	究      CJK character Nelson 3314
+      1 空	空      CJK character Nelson 3317
+      1 立	立      CJK character Nelson 3343
+      1 競	競      CJK character Nelson 3364
+      1 竹	竹      CJK character Nelson 3366
+      1 竿	竿      CJK character Nelson 3369
+      1 笔	笔      Unknown character in range CJK Unified Ideographs
+      1 笠	笠      CJK character Nelson 3381
+      1 筆	筆      CJK character Nelson 3397
+      1 管	管      CJK character Nelson 3416
+      1 篠	篠      CJK character Nelson 3428,3440
+      1 継	継      CJK character Nelson 3545
+      1 綽	綽      CJK character Nelson 3554
+      1 緒	緒      CJK character Nelson 3557,3570
+      1 纪	纪      Unknown character in range CJK Unified Ideographs
+      1 绍	绍      Unknown character in range CJK Unified Ideographs
+      1 绰	绰      Unknown character in range CJK Unified Ideographs
+      1 置	置      CJK character Nelson 3644
+      1 翔	翔      CJK character Nelson 3664
+      1 耶	耶      CJK character Nelson 3698
+      1 肃	肃      Unknown character in range CJK Unified Ideographs
+      1 肇	肇      CJK character Nelson 3723
+      1 腹	腹      CJK character Nelson 3800
+      1 芬	芬      CJK character Nelson 3901
+      1 芹	芹      CJK character Nelson 3899
+      1 苏	苏      Unknown character in range CJK Unified Ideographs
+      1 苗	苗      CJK character Nelson 3923
+      1 茉	茉      Unknown character in range CJK Unified Ideographs
+      1 莉	莉      Unknown character in range CJK Unified Ideographs
+      1 莊	莊      CJK character Nelson 3943
+      1 莫	莫      CJK character Nelson 3954
+      1 菜	菜      CJK character Nelson 3982
+      1 華	華      CJK character Nelson 3955
+      1 葛	葛      CJK character Nelson 3997
+      1 蓟	蓟      Unknown character in range CJK Unified Ideographs
+      1 蘭	蘭      CJK character Nelson 4091
+      1 街	街      CJK character Nelson 1626
+      1 袋	袋      CJK character Nelson 4223
+      1 裕	裕      CJK character Nelson 4241
+      1 製	製      CJK character Nelson 4249
+      1 覆	覆      CJK character Nelson 4279
+      1 見	見      CJK character Nelson 4284
+      1 角	角      CJK character Nelson 4301
+      1 解	解      CJK character Nelson 4306
+      1 訓	訓      CJK character Nelson 4317
+      1 誠	誠      CJK character Nelson 4352,4362
+      1 謙	謙      CJK character Nelson 4422
+      1 谊	谊      Unknown character in range CJK Unified Ideographs
+      1 谟	谟      Unknown character in range CJK Unified Ideographs
+      1 谥	谥      Unknown character in range CJK Unified Ideographs
+      1 豊	豊      CJK character Nelson 4466
+      1 豬	豬      Unknown character in range CJK Unified Ideographs
+      1 責	責      CJK character Nelson 4492
+      1 贾	贾      Unknown character in range CJK Unified Ideographs
+      1 赤	赤      CJK character Nelson 4534
+      1 赦	赦      CJK character Nelson 4536
+      1 赫	赫      CJK character Nelson 4537
+      1 赵	赵      Unknown character in range CJK Unified Ideographs
+      1 越	越      CJK character Nelson 4542
+      1 趙	趙      Unknown character in range CJK Unified Ideographs
+      1 軍	軍      CJK character Nelson  628
+      1 軽	軽      CJK character Nelson 4620
+      1 輔	輔      CJK character Nelson 4626
+      1 迩	迩      Unknown character in range CJK Unified Ideographs
+      1 迪	迪      Unknown character in range CJK Unified Ideographs
+      1 遊	遊      CJK character Nelson 4726
+      1 邇	邇      CJK character Nelson 4751
+      1 邵	邵      Unknown character in range CJK Unified Ideographs
+      1 郑	郑      Unknown character in range CJK Unified Ideographs
+      1 部	部      CJK character Nelson 4767
+      1 郭	郭      CJK character Nelson 4765
+      1 醜	醜      CJK character Nelson 4798
+      1 鈞	鈞      CJK character Nelson 4823
+      1 鈴	鈴      CJK character Nelson 4837
+      1 鎖	鎖      CJK character Nelson 4901
+      1 鎧	鎧      CJK character Nelson 4900
+      1 鑑	鑑      CJK character Nelson 4924
+      1 镇	镇      Unknown character in range CJK Unified Ideographs
+      1 間	間      CJK character Nelson 4949
+      1 阿	阿      CJK character Nelson 4985
+      1 陆	陆      Unknown character in range CJK Unified Ideographs
+      1 陇	陇      Unknown character in range CJK Unified Ideographs
+      1 限	限      CJK character Nelson 4987
+      1 陳	陳      CJK character Nelson 5001
+      1 陸	陸      CJK character Nelson 5005
+      1 陽	陽      CJK character Nelson 5012
+      1 際	際      CJK character Nelson 5018
+      1 雄	雄      CJK character Nelson 5030
+      1 青	青      CJK character Nelson 5076
+      1 韻	韻      CJK character Nelson 5115
+      1 额	额      Unknown character in range CJK Unified Ideographs
+      1 颱	颱      CJK character Nelson 5149
+      1 风	风      Unknown character in range CJK Unified Ideographs
+      1 首	首      CJK character Nelson 5186
+      1 驢	驢      CJK character Nelson 5233
+      1 驴	驴      Unknown character in range CJK Unified Ideographs
+      1 鳥	鳥      CJK character Nelson 5340
+      1 鳩	鳩      CJK character Nelson 5342
+      1 黄	黄      CJK character Nelson 5399
+      1 黑	黑      Unknown character in range CJK Unified Ideographs
+      1 鼠	鼠      CJK character Nelson 5417
+      1 경	경      HANGUL SYLLABLE GYEONG
+      1 국	국      HANGUL SYLLABLE GUG
+      1 나	나      HANGUL SYLLABLE NA
+      1 드	드      HANGUL SYLLABLE DEU
+      1 럴	럴      HANGUL SYLLABLE LEOL
+      1 린	린      HANGUL SYLLABLE LIN
+      1 말	말      HANGUL SYLLABLE MAL
+      1 민	민      HANGUL SYLLABLE MIN
+      1 박	박      HANGUL SYLLABLE BAG
+      1 베	베      HANGUL SYLLABLE BE
+      1 서	서      HANGUL SYLLABLE SEO
+      1 석	석      HANGUL SYLLABLE SEOG
+      1 선	선      HANGUL SYLLABLE SEON
+      1 성	성      HANGUL SYLLABLE SEONG
+      1 수	수      HANGUL SYLLABLE SU
+      1 스	스      HANGUL SYLLABLE SEU
+      1 어	어      HANGUL SYLLABLE EO
+      1 올	올      HANGUL SYLLABLE OL
+      1 윤	윤      HANGUL SYLLABLE YUN
+      1 이	이      HANGUL SYLLABLE I
+      1 정	정      HANGUL SYLLABLE JEONG
+      1 조	조      HANGUL SYLLABLE JO
+      1 진	진      HANGUL SYLLABLE JIN
+      1 창	창      HANGUL SYLLABLE CANG
+      1 키	키      HANGUL SYLLABLE KI
+      1 트	트      HANGUL SYLLABLE TEU
+      1 패	패      HANGUL SYLLABLE PAE
+      1 평	평      HANGUL SYLLABLE PYEONG
+      1 필	필      HANGUL SYLLABLE PIL
+      1 한	한      HANGUL SYLLABLE HAN
+      1 향	향      HANGUL SYLLABLE HYANG
+      1 현	현      HANGUL SYLLABLE HYEON
+      1 ﬁ	ﬁ      LATIN SMALL LIGATURE FI
+      1 ﬂ	ﬂ      LATIN SMALL LIGATURE FL
+      1 ﷲ	ﷲ      ARABIC LIGATURE ALLAH ISOLATED FORM
+      1 ﺐ	ﺐ      ARABIC LETTER BEH FINAL FORM
+      1 ﺣ	ﺣ      ARABIC LETTER HAH INITIAL FORM
+      1 ﻠ	ﻠ      ARABIC LETTER LAM MEDIAL FORM
+      1 𐀇	𐀇      LINEAR B SYLLABLE B007 DI
+      1 𐀒	𐀒      LINEAR B SYLLABLE B070 KO
+      1 𐁂	𐁂      LINEAR B SYLLABLE B085 AU
+      1 𐁕	𐁕      LINEAR B SYMBOL B049
+      1 𐆖	𐆖      ROMAN DENARIUS SIGN
+      1 𐌱	𐌱      GOTHIC LETTER BAIRKAN
+      1 𐌳	𐌳      GOTHIC LETTER DAGS
+      1 𐌷	𐌷      GOTHIC LETTER HAGL
+      1 𐌹	𐌹      GOTHIC LETTER EIS
+      1 𐌽	𐌽      GOTHIC LETTER NAUTHS
+      1 𐍄	𐍄      GOTHIC LETTER TEIWS
+      1 𐎤	𐎤      OLD PERSIAN SIGN KU
+      1 𐎽	𐎽      OLD PERSIAN SIGN RU
+      1 𐏁	𐏁      OLD PERSIAN SIGN SHA
+      1 𐡉	𐡉      Character in undefined range
+      1 𐡌	𐡌      Character in undefined range
+      1 𐡓	𐡓      Character in undefined range
+      1 𐤄	𐤄      PHOENICIAN LETTER HE
+      1 𐤑	𐤑      PHOENICIAN LETTER SADE
+      1 𒀝	𒀝      CUNEIFORM SIGN AK
+      1 𒃶	𒃶      CUNEIFORM SIGN GAN
+      1 𒄀	𒄀      CUNEIFORM SIGN GI
+      1 𒄒	𒄒      CUNEIFORM SIGN GISH CROSSING GISH
+      1 𒄙	𒄙      CUNEIFORM SIGN GU2 TIMES KAK
+      1 𒄠	𒄠      CUNEIFORM SIGN GUD TIMES KUR
+      1 𒅖	𒅖      CUNEIFORM SIGN ISH
+      1 𒅗	𒅗      CUNEIFORM SIGN KA
+      1 𒆳	𒆳      CUNEIFORM SIGN KUR
+      1 𒈗	𒈗      CUNEIFORM SIGN LUGAL
+      1 𒈠	𒈠      CUNEIFORM SIGN MA
+      1 𒈬	𒈬      CUNEIFORM SIGN MU
+      1 𒉌	𒉌      CUNEIFORM SIGN NI
+      1 𒊏	𒊏      CUNEIFORM SIGN RA
+      1 𒊒	𒊒      CUNEIFORM SIGN RU
+      1 𒋗	𒋗      CUNEIFORM SIGN SHU
+      1 𒋢	𒋢      CUNEIFORM SIGN SU
+      1 𒌅	𒌅      CUNEIFORM SIGN TU
+      1 𒌑	𒌑      CUNEIFORM SIGN U2
+      1 𒍑	𒍑      CUNEIFORM SIGN USH
+      1 𒍪	𒍪      CUNEIFORM SIGN ZU
+      1 𝕸	𝕸      MATHEMATICAL BOLD FRAKTUR CAPITAL M
+      2 ¨	¨      DIAERESIS
+      2 ¼	¼      VULGAR FRACTION ONE QUARTER
+      2 ¾	¾      VULGAR FRACTION THREE QUARTERS
+      2 Ç	Ç      LATIN CAPITAL LETTER C WITH CEDILLA
+      2 ñ	ñ      LATIN SMALL LETTER N WITH TILDE
+      2 Ć	Ć      LATIN CAPITAL LETTER C WITH ACUTE
+      2 Č	Č      LATIN CAPITAL LETTER C WITH CARON
+      2 ę	ę      LATIN SMALL LETTER E WITH OGONEK
+      2 Ğ	Ğ      LATIN CAPITAL LETTER G WITH BREVE
+      2 İ	İ      LATIN CAPITAL LETTER I WITH DOT ABOVE
+      2 Ń	Ń      LATIN CAPITAL LETTER N WITH ACUTE
+      2 Ś	Ś      LATIN CAPITAL LETTER S WITH ACUTE
+      2 ų	ų      LATIN SMALL LETTER U WITH OGONEK
+      2 Ź	Ź      LATIN CAPITAL LETTER Z WITH ACUTE
+      2 ȝ	ȝ      LATIN SMALL LETTER YOGH
+      2 ɤ	ɤ      LATIN SMALL LETTER RAMS HORN
+      2 ɬ	ɬ      LATIN SMALL LETTER L WITH BELT
+      2 ʕ	ʕ      LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+      2 ʼ	ʼ      MODIFIER LETTER APOSTROPHE
+      2 ˁ	ˁ      MODIFIER LETTER REVERSED GLOTTAL STOP
+      2 ˇ	ˇ      CARON
+      2 ˌ	ˌ      MODIFIER LETTER LOW VERTICAL LINE
+      2 ˤ	ˤ      MODIFIER LETTER SMALL REVERSED GLOTTAL STOP
+      2 Ώ	Ώ      GREEK CAPITAL LETTER OMEGA WITH TONOS
+      2 ΐ	ΐ      GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+      2 ϕ	ϕ      GREEK PHI SYMBOL
+      2 Ђ	Ђ      CYRILLIC CAPITAL LETTER DJE
+      2 Ј	Ј      CYRILLIC CAPITAL LETTER JE
+      2 Ў	Ў      CYRILLIC CAPITAL LETTER SHORT U
+      2 Щ	Щ      CYRILLIC CAPITAL LETTER SHCHA
+      2 Ь	Ь      CYRILLIC CAPITAL LETTER SOFT SIGN
+      2 ђ	ђ      CYRILLIC SMALL LETTER DJE
+      2 ѣ	ѣ      CYRILLIC SMALL LETTER YAT
+      2 Қ	Қ      CYRILLIC CAPITAL LETTER KA WITH DESCENDER
+      2 ӕ	ӕ      CYRILLIC SMALL LIGATURE A IE
+      2 Է	Է      ARMENIAN CAPITAL LETTER EH
+      2 ձ	ձ      ARMENIAN SMALL LETTER JA
+      2 ջ	ջ      ARMENIAN SMALL LETTER JHEH
+      2 ץ	ץ      HEBREW LETTER FINAL TSADI
+      2 ـ	ـ      ARABIC TATWEEL
+      2 چ	چ      ARABIC LETTER TCHEH
+      2 ھ	ھ      ARABIC LETTER HEH DOACHASHMEE
+      2 ۈ	ۈ      ARABIC LETTER YU
+      2 ܓ	ܓ      SYRIAC LETTER GAMAL
+      2 ܗ	ܗ      SYRIAC LETTER HE
+      2 ܚ	ܚ      SYRIAC LETTER HETH
+      2 ܥ	ܥ      SYRIAC LETTER E
+      2 ܨ	ܨ      SYRIAC LETTER SADHE
+      2 ߞ	ߞ      NKO LETTER KA
+      2 ख	ख      DEVANAGARI LETTER KHA
+      2 ज	ज      DEVANAGARI LETTER JA
+      2 ञ	ञ      DEVANAGARI LETTER NYA
+      2 ल	ल      DEVANAGARI LETTER LA
+      2 व	व      DEVANAGARI LETTER VA
+      2 श	श      DEVANAGARI LETTER SHA
+      2 ष	ष      DEVANAGARI LETTER SSA
+      2 ট	ট      BENGALI LETTER TTA
+      2 ਨ	ਨ      GURMUKHI LETTER NA
+      2 ਸ	ਸ      GURMUKHI LETTER SA
+      2 ੀ	ੀ      GURMUKHI VOWEL SIGN II
+      2 ભ	ભ      GUJARATI LETTER BHA
+      2 க	க      TAMIL LETTER KA
+      2 ஜ	ஜ      TAMIL LETTER JA
+      2 ெ	ெ      TAMIL VOWEL SIGN E
+      2 ต	ต      THAI CHARACTER TO TAO
+      2 ม	ม      THAI CHARACTER MO MA
+      2 ງ	ງ      LAO LETTER NGO
+      2 ວ	ວ      LAO LETTER WO
+      2 ག	ག      TIBETAN LETTER GA
+      2 མ	མ      TIBETAN LETTER MA
+      2 ზ	ზ      GEORGIAN LETTER ZEN
+      2 ფ	ფ      GEORGIAN LETTER PHAR
+      2 შ	შ      GEORGIAN LETTER SHIN
+      2 ჯ	ჯ      GEORGIAN LETTER JHAN
+      2 ል	ል      ETHIOPIC SYLLABLE LE
+      2 ሥ	ሥ      ETHIOPIC SYLLABLE SZE
+      2 ራ	ራ      ETHIOPIC SYLLABLE RAA
+      2 ተ	ተ      ETHIOPIC SYLLABLE TA
+      2 ት	ት      ETHIOPIC SYLLABLE TE
+      2 ዶ	ዶ      ETHIOPIC SYLLABLE DO
+      2 ጉ	ጉ      ETHIOPIC SYLLABLE GU
+      2 ፈ	ፈ      ETHIOPIC SYLLABLE FA
+      2 ᐅ	ᐅ      CANADIAN SYLLABICS O
+      2 ᐏ	ᐏ      CANADIAN SYLLABICS WEST-CREE WI
+      2 ᐗ	ᐗ      CANADIAN SYLLABICS WA
+      2 ᐣ	ᐣ      CANADIAN SYLLABICS FINAL RIGHT HALF RING
+      2 ᐹ	ᐹ      CANADIAN SYLLABICS PAA
+      2 ᑎ	ᑎ      CANADIAN SYLLABICS TI
+      2 ᓃ	ᓃ      CANADIAN SYLLABICS NII
+      2 ᓐ	ᓐ      CANADIAN SYLLABICS N
+      2 ᓗ	ᓗ      CANADIAN SYLLABICS LO
+      2 ᔨ	ᔨ      CANADIAN SYLLABICS YI
+      2 ᖅ	ᖅ      CANADIAN SYLLABICS Q
+      2 ᚹ	ᚹ      RUNIC LETTER WUNJO WYNN W
+      2 ᛉ	ᛉ      RUNIC LETTER ALGIZ EOLHX
+      2 ᛖ	ᛖ      RUNIC LETTER EHWAZ EH E
+      2 ᛚ	ᛚ      RUNIC LETTER LAUKAZ LAGU LOGR L
+      2 ḵ	ḵ      LATIN SMALL LETTER K WITH LINE BELOW
+      2 Ṭ	Ṭ      LATIN CAPITAL LETTER T WITH DOT BELOW
+      2 ẓ	ẓ      LATIN SMALL LETTER Z WITH DOT BELOW
+      2 ẽ	ẽ      LATIN SMALL LETTER E WITH TILDE
+      2 Ἅ	Ἅ      GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
+      2 ἱ	ἱ      GREEK SMALL LETTER IOTA WITH DASIA
+      2 ἶ	ἶ      GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI
+      2 Ἴ	Ἴ      GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
+      2 ὄ	ὄ      GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+      2 ὅ	ὅ      GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+      2 Ὁ	Ὁ      GREEK CAPITAL LETTER OMICRON WITH DASIA
+      2 ὺ	ὺ      GREEK SMALL LETTER UPSILON WITH VARIA
+      2 ᾍ	ᾍ      GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+      2 ῷ	ῷ      GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI
+      2 ‌	        ZERO WIDTH NON-JOINER
+      2  	       NARROW NO-BREAK SPACE
+      2 ⅛	⅛      VULGAR FRACTION ONE EIGHTH
+      2 ♠	♠      BLACK SPADE SUIT
+      2 ♦	♦      BLACK DIAMOND SUIT
+      2 Ⰽ	Ⰽ      GLAGOLITIC CAPITAL LETTER KAKO
+      2 Ⱄ	Ⱄ      GLAGOLITIC CAPITAL LETTER SLOVO
+      2 ⲟ	ⲟ      COPTIC SMALL LETTER O
+      2 ⴷ	ⴷ      TIFINAGH LETTER YAD
+      2 ⴻ	ⴻ      TIFINAGH LETTER YEY
+      2 ⵓ	ⵓ      TIFINAGH LETTER YU
+      2 ⵔ	ⵔ      TIFINAGH LETTER YAR
+      2 ⵙ	ⵙ      TIFINAGH LETTER YAS
+      2 ⵟ	ⵟ      TIFINAGH LETTER YATT
+      2 あ	あ      HIRAGANA LETTER A
+      2 か	か      HIRAGANA LETTER KA
+      2 き	き      HIRAGANA LETTER KI
+      2 た	た      HIRAGANA LETTER TA
+      2 ち	ち      HIRAGANA LETTER TI
+      2 ま	ま      HIRAGANA LETTER MA
+      2 み	み      HIRAGANA LETTER MI
+      2 ゃ	ゃ      HIRAGANA LETTER SMALL YA
+      2 ェ	ェ      KATAKANA LETTER SMALL E
+      2 エ	エ      KATAKANA LETTER E
+      2 ケ	ケ      KATAKANA LETTER KE
+      2 ゲ	ゲ      KATAKANA LETTER GE
+      2 シ	シ      KATAKANA LETTER SI
+      2 セ	セ      KATAKANA LETTER SE
+      2 ツ	ツ      KATAKANA LETTER TU
+      2 ニ	ニ      KATAKANA LETTER NI
+      2 ヌ	ヌ      KATAKANA LETTER NU
+      2 フ	フ      KATAKANA LETTER HU
+      2 プ	プ      KATAKANA LETTER PU
+      2 ロ	ロ      KATAKANA LETTER RO
+      2 东	东      Unknown character in range CJK Unified Ideographs
+      2 之	之      CJK character Nelson  280
+      2 乳	乳      CJK character Nelson  266
+      2 人	人      CJK character Nelson  339
+      2 侠	侠      CJK character Nelson  445
+      2 保	保      CJK character Nelson  455
+      2 元	元      CJK character Nelson  275
+      2 先	先      CJK character Nelson  571
+      2 光	光      CJK character Nelson 1358
+      2 兴	兴      Unknown character in range CJK Unified Ideographs
+      2 内	内      CJK character Nelson   82
+      2 切	切      CJK character Nelson  667
+      2 前	前      CJK character Nelson  595
+      2 力	力      CJK character Nelson  715
+      2 助	助      CJK character Nelson  719
+      2 区	区      CJK character Nelson  757
+      2 卧	卧      Unknown character in range CJK Unified Ideographs
+      2 友	友      CJK character Nelson  858
+      2 台	台      CJK character Nelson  848
+      2 和	和      CJK character Nelson 3268
+      2 哉	哉      CJK character Nelson  777
+      2 哥	哥      CJK character Nelson   56
+      2 喷	喷      Unknown character in range CJK Unified Ideographs
+      2 園	園      CJK character Nelson 1047
+      2 圣	圣      Unknown character in range CJK Unified Ideographs
+      2 基	基      CJK character Nelson 1098
+      2 堀	堀      CJK character Nelson 1095
+      2 堂	堂      CJK character Nelson 1365
+      2 多	多      CJK character Nelson 1169,1580
+      2 妈	妈      Unknown character in range CJK Unified Ideographs
+      2 妓	妓      CJK character Nelson 1194
+      2 姐	姐      CJK character Nelson 1202
+      2 宁	宁      Unknown character in range CJK Unified Ideographs
+      2 宇	宇      CJK character Nelson 1280
+      2 宏	宏      CJK character Nelson 1286
+      2 宗	宗      CJK character Nelson 1294
+      2 局	局      CJK character Nelson  886,1384
+      2 帝	帝      CJK character Nelson  305, 277
+      2 師	師      CJK character Nelson  113
+      2 広	広      CJK character Nelson 1499
+      2 庄	庄      CJK character Nelson 1500
+      2 张	张      Unknown character in range CJK Unified Ideographs
+      2 張	張      CJK character Nelson 1570
+      2 強	強      CJK character Nelson 1571,1572
+      2 弼	弼      CJK character Nelson 1573
+      2 徐	徐      CJK character Nelson 1612
+      2 恵	恵      CJK character Nelson 1681
+      2 成	成      CJK character Nelson 1800,1799
+      2 所	所      CJK character Nelson 1821
+      2 手	手      CJK character Nelson 1827
+      2 拼	拼      Unknown character in range CJK Unified Ideographs
+      2 教	教      CJK character Nelson 2052
+      2 昆	昆      CJK character Nelson 2106
+      2 月	月      CJK character Nelson 2169
+      2 朱	朱      CJK character Nelson  184
+      2 村	村      CJK character Nelson 2191
+      2 根	根      CJK character Nelson 2261
+      2 楊	楊      CJK character Nelson 2321
+      2 次	次      CJK character Nelson  638
+      2 民	民      CJK character Nelson   25
+      2 水	水      CJK character Nelson 2482
+      2 汉	汉      Unknown character in range CJK Unified Ideographs
+      2 津	津      CJK character Nelson 2543
+      2 济	济      Unknown character in range CJK Unified Ideographs
+      2 滿	滿      CJK character Nelson 2664
+      2 漢	漢      CJK character Nelson 2662,2665
+      2 澤	澤      CJK character Nelson 2704
+      2 瀬	瀬      CJK character Nelson 2735
+      2 犬	犬      CJK character Nelson 2868
+      2 狸	狸      CJK character Nelson 2887
+      2 玉	玉      CJK character Nelson 2923
+      2 球	球      CJK character Nelson 2941
+      2 琉	琉      CJK character Nelson 2939
+      2 瑟	瑟      CJK character Nelson 2953
+      2 瑾	瑾      CJK character Nelson 2968
+      2 百	百      CJK character Nelson   33
+      2 石	石      CJK character Nelson   28,3176
+      2 社	社      CJK character Nelson 3231
+      2 神	神      CJK character Nelson 3245
+      2 福	福      CJK character Nelson 3256
+      2 简	简      Unknown character in range CJK Unified Ideographs
+      2 簡	簡      CJK character Nelson 3444
+      2 紀	紀      CJK character Nelson 3497
+      2 紫	紫      CJK character Nelson 3534
+      2 繁	繁      CJK character Nelson 3598,3596
+      2 经	经      Unknown character in range CJK Unified Ideographs
+      2 習	習      CJK character Nelson 3675
+      2 者	者      CJK character Nelson 3685,3688
+      2 股	股      CJK character Nelson 3739
+      2 舞	舞      CJK character Nelson 3862
+      2 航	航      CJK character Nelson 3867
+      2 良	良      CJK character Nelson   36, 190
+      2 芭	芭      CJK character Nelson 3903
+      2 花	花      CJK character Nelson 3909
+      2 若	若      CJK character Nelson 3926
+      2 英	英      CJK character Nelson 3927
+      2 菊	菊      CJK character Nelson 3981
+      2 蔡	蔡      Unknown character in range CJK Unified Ideographs
+      2 蕉	蕉      CJK character Nelson 4048
+      2 衎	衎      Unknown character in range CJK Unified Ideographs
+      2 表	表      CJK character Nelson  108
+      2 触	触      CJK character Nelson 4305
+      2 記	記      CJK character Nelson 4318
+      2 諱	諱      CJK character Nelson 4397
+      2 諸	諸      CJK character Nelson 4393,4395
+      2 讀	讀      CJK character Nelson 4375,4450
+      2 语	语      Unknown character in range CJK Unified Ideographs
+      2 足	足      CJK character Nelson 4546
+      2 軒	軒      CJK character Nelson 4611
+      2 載	載      CJK character Nelson  789
+      2 近	近      CJK character Nelson 4671
+      2 重	重      CJK character Nelson  224
+      2 鎌	鎌      CJK character Nelson 4902
+      2 阪	阪      CJK character Nelson 4979
+      2 阳	阳      Unknown character in range CJK Unified Ideographs
+      2 隆	隆      CJK character Nelson 4999,5007
+      2 集	集      CJK character Nelson 5031
+      2 雲	雲      CJK character Nelson 5046
+      2 音	音      CJK character Nelson 5110
+      2 頼	頼      CJK character Nelson 5129
+      2 飾	飾      CJK character Nelson 5161
+      2 馬	馬      CJK character Nelson 5191
+      2 魔	魔      CJK character Nelson 5398
+      2 鲁	鲁      Unknown character in range CJK Unified Ideographs
+      2 齐	齐      Unknown character in range CJK Unified Ideographs
+      2 계	계      HANGUL SYLLABLE GYE
+      2 기	기      HANGUL SYLLABLE GI
+      2 동	동      HANGUL SYLLABLE DONG
+      2 림	림      HANGUL SYLLABLE LIM
+      2 심	심      HANGUL SYLLABLE SIM
+      2 재	재      HANGUL SYLLABLE JAE
+      2 픽	픽      HANGUL SYLLABLE PIG
+      2 헌	헌      HANGUL SYLLABLE HEON
+      2 𐌰	𐌰      GOTHIC LETTER AHSA
+      2 𐎢	𐎢      OLD PERSIAN SIGN U
+      2 𐡀	𐡀      Character in undefined range
+      2 𐤅	𐤅      PHOENICIAN LETTER WAU
+      2 𐤎	𐤎      PHOENICIAN LETTER SEMK
+      2 𒂗	𒂗      CUNEIFORM SIGN EN
+      2 𒈾	𒈾      CUNEIFORM SIGN NA
+      2 𒊬	𒊬      CUNEIFORM SIGN SAR
+      2 𒌷	𒌷      CUNEIFORM SIGN URU
+      3 Ð	Ð      LATIN CAPITAL LETTER ETH
+      3 Ý	Ý      LATIN CAPITAL LETTER Y WITH ACUTE
+      3 Ā	Ā      LATIN CAPITAL LETTER A WITH MACRON
+      3 ă	ă      LATIN SMALL LETTER A WITH BREVE
+      3 Ĳ	Ĳ      LATIN CAPITAL LIGATURE IJ
+      3 ń	ń      LATIN SMALL LETTER N WITH ACUTE
+      3 ţ	ţ      LATIN SMALL LETTER T WITH CEDILLA
+      3 ź	ź      LATIN SMALL LETTER Z WITH ACUTE
+      3 Ż	Ż      LATIN CAPITAL LETTER Z WITH DOT ABOVE
+      3 ż	ż      LATIN SMALL LETTER Z WITH DOT ABOVE
+      3 ƛ	ƛ      LATIN SMALL LETTER LAMBDA WITH STROKE
+      3 ư	ư      LATIN SMALL LETTER U WITH HORN
+      3 ƿ	ƿ      LATIN LETTER WYNN
+      3 ɂ	ɂ      LATIN SMALL LETTER GLOTTAL STOP
+      3 ʣ	ʣ      LATIN SMALL LETTER DZ DIGRAPH
+      3 ʨ	ʨ      LATIN SMALL LETTER TC DIGRAPH WITH CURL
+      3 ΄	΄      GREEK TONOS
+      3 Η	Η      GREEK CAPITAL LETTER ETA
+      3 Ξ	Ξ      GREEK CAPITAL LETTER XI
+      3 Υ	Υ      GREEK CAPITAL LETTER UPSILON
+      3 Ψ	Ψ      GREEK CAPITAL LETTER PSI
+      3 є	є      CYRILLIC SMALL LETTER UKRAINIAN IE
+      3 ә	ә      CYRILLIC SMALL LETTER SCHWA
+      3 ө	ө      CYRILLIC SMALL LETTER BARRED O
+      3 Զ	Զ      ARMENIAN CAPITAL LETTER ZA
+      3 Ծ	Ծ      ARMENIAN CAPITAL LETTER CA
+      3 Ն	Ն      ARMENIAN CAPITAL LETTER NOW
+      3 է	է      ARMENIAN SMALL LETTER EH
+      3 և	և      ARMENIAN SMALL LIGATURE ECH YIWN
+      3 ף	ף      HEBREW LETTER FINAL PE
+      3 ؤ	ؤ      ARABIC LETTER WAW WITH HAMZA ABOVE
+      3 ٹ	ٹ      ARABIC LETTER TTEH
+      3 ܟ	ܟ      SYRIAC LETTER KAPH
+      3 ܠ	ܠ      SYRIAC LETTER LAMADH
+      3 ܦ	ܦ      SYRIAC LETTER PE
+      3 त	त      DEVANAGARI LETTER TA
+      3 भ	भ      DEVANAGARI LETTER BHA
+      3 स	स      DEVANAGARI LETTER SA
+      3 ि	ि      DEVANAGARI VOWEL SIGN I
+      3 ो	ो      DEVANAGARI VOWEL SIGN O
+      3 ক	ক      BENGALI LETTER KA
+      3 ਿ	ਿ      GURMUKHI VOWEL SIGN I
+      3 લ	લ      GUJARATI LETTER LA
+      3 ச	ச      TAMIL LETTER CA
+      3 ன	ன      TAMIL LETTER NNNA
+      3 ய	ய      TAMIL LETTER YA
+      3 ர	ர      TAMIL LETTER RA
+      3 ல	ல      TAMIL LETTER LA
+      3 ழ	ழ      TAMIL LETTER LLLA
+      3 ா	ா      TAMIL VOWEL SIGN AA
+      3 ง	ง      THAI CHARACTER NGO NGU
+      3 พ	พ      THAI CHARACTER PHO PHAN
+      3 ย	ย      THAI CHARACTER YO YAK
+      3 ན	ན      TIBETAN LETTER NA
+      3 ར	ར      TIBETAN LETTER RA
+      3 ძ	ძ      GEORGIAN LETTER JIL
+      3 መ	መ      ETHIOPIC SYLLABLE MA
+      3 ር	ር      ETHIOPIC SYLLABLE RE
+      3 አ	አ      ETHIOPIC SYLLABLE GLOTTAL A
+      3 ክ	ክ      ETHIOPIC SYLLABLE KE
+      3 ᑦ	ᑦ      CANADIAN SYLLABICS T
+      3 ᚺ	ᚺ      RUNIC LETTER HAGLAZ H
+      3 ᛁ	ᛁ      RUNIC LETTER ISAZ IS ISS I
+      3 ᛏ	ᛏ      RUNIC LETTER TIWAZ TIR TYR T
+      3 ᛟ	ᛟ      RUNIC LETTER OTHALAN ETHEL O
+      3 ᠡ	ᠡ      MONGOLIAN LETTER E
+      3 ḏ	ḏ      LATIN SMALL LETTER D WITH LINE BELOW
+      3 Ἔ	Ἔ      GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
+      3 Ἠ	Ἠ      GREEK CAPITAL LETTER ETA WITH PSILI
+      3 Ὀ	Ὀ      GREEK CAPITAL LETTER OMICRON WITH PSILI
+      3 ὕ	ὕ      GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
+      3 ὴ	ὴ      GREEK SMALL LETTER ETA WITH VARIA
+      3 ῳ	ῳ      GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI
+      3 ‏	        RIGHT-TO-LEFT MARK
+      3 ♣	♣      BLACK CLUB SUIT
+      3 Ⱏ	Ⱏ      GLAGOLITIC CAPITAL LETTER YERU
+      3 ⵍ	ⵍ      TIFINAGH LETTER YAL
+      3 ⵗ	ⵗ      TIFINAGH LETTER TUAREG YAGH
+      3 ⵣ	ⵣ      TIFINAGH LETTER YAZ
+      3 い	い      HIRAGANA LETTER I
+      3 お	お      HIRAGANA LETTER O
+      3 さ	さ      HIRAGANA LETTER SA
+      3 ら	ら      HIRAGANA LETTER RA
+      3 ィ	ィ      KATAKANA LETTER SMALL I
+      3 イ	イ      KATAKANA LETTER I
+      3 ガ	ガ      KATAKANA LETTER GA
+      3 ジ	ジ      KATAKANA LETTER ZI
+      3 タ	タ      KATAKANA LETTER TA
+      3 テ	テ      KATAKANA LETTER TE
+      3 デ	デ      KATAKANA LETTER DE
+      3 ネ	ネ      KATAKANA LETTER NE
+      3 ハ	ハ      KATAKANA LETTER HA
+      3 ピ	ピ      KATAKANA LETTER PI
+      3 ブ	ブ      KATAKANA LETTER BU
+      3 二	二      CJK character Nelson  273
+      3 井	井      CJK character Nelson  165
+      3 代	代      CJK character Nelson  364
+      3 俠	俠      CJK character Nelson  445
+      3 円	円      CJK character Nelson  617
+      3 北	北      CJK character Nelson  751,  20
+      3 南	南      CJK character Nelson  778
+      3 哈	哈      Unknown character in range CJK Unified Ideographs
+      3 嚏	嚏      Unknown character in range CJK Unified Ideographs
+      3 奈	奈      CJK character Nelson 1174
+      3 女	女      CJK character Nelson 1185
+      3 家	家      CJK character Nelson 1311
+      3 尔	尔      Unknown character in range CJK Unified Ideographs
+      3 州	州      CJK character Nelson   99
+      3 德	德      CJK character Nelson 1636,1633
+      3 戸	戸      CJK character Nelson 1817
+      3 新	新      CJK character Nelson 2080
+      3 晋	晋      CJK character Nelson   55
+      3 有	有      CJK character Nelson 3727
+      3 朝	朝      CJK character Nelson 3788
+      3 梅	梅      CJK character Nelson 2258
+      3 正	正      CJK character Nelson   27
+      3 毛	毛      CJK character Nelson 2473
+      3 江	江      CJK character Nelson 2491
+      3 源	源      CJK character Nelson 2656
+      3 漫	漫      CJK character Nelson 2683
+      3 由	由      CJK character Nelson   89
+      3 町	町      CJK character Nelson 2995
+      3 知	知      CJK character Nelson 3169
+      3 秋	秋      CJK character Nelson 3273
+      3 美	美      CJK character Nelson 3658
+      3 老	老      CJK character Nelson 3683
+      3 聖	聖      CJK character Nelson 2960
+      3 臥	臥      CJK character Nelson 3839
+      3 自	自      CJK character Nelson 3841
+      3 言	言      CJK character Nelson 4309
+      3 谷	谷      CJK character Nelson 4458
+      3 賞	賞      CJK character Nelson 1372
+      3 込	込      CJK character Nelson 4660
+      3 連	連      CJK character Nelson 4702
+      3 邊	邊      CJK character Nelson 4753
+      3 金	金      CJK character Nelson 4815
+      3 風	風      CJK character Nelson 5148
+      3 高	高      CJK character Nelson 5247,5248
+      3 麒	麒      CJK character Nelson 5380
+      3 麟	麟      CJK character Nelson 5383
+      3 黒	黒      CJK character Nelson 5403
+      3 龙	龙      Unknown character in range CJK Unified Ideographs
+      3 𐤃	𐤃      PHOENICIAN LETTER DELT
+      3 𐤉	𐤉      PHOENICIAN LETTER YOD
+      3 𐤔	𐤔      PHOENICIAN LETTER SHIN
+      3 𒀀	𒀀      CUNEIFORM SIGN A
+      3 𒉈	𒉈      CUNEIFORM SIGN NE
+      3 𒌵	𒌵      CUNEIFORM SIGN URI
+      4 Ø	Ø      LATIN CAPITAL LETTER O WITH STROKE
+      4 ù	ù      LATIN SMALL LETTER U WITH GRAVE
+      4 ą	ą      LATIN SMALL LETTER A WITH OGONEK
+      4 ħ	ħ      LATIN SMALL LETTER H WITH STROKE
+      4 į	į      LATIN SMALL LETTER I WITH OGONEK
+      4 ĳ	ĳ      LATIN SMALL LIGATURE IJ
+      4 ř	ř      LATIN SMALL LETTER R WITH CARON
+      4 ś	ś      LATIN SMALL LETTER S WITH ACUTE
+      4 Ş	Ş      LATIN CAPITAL LETTER S WITH CEDILLA
+      4 ɫ	ɫ      LATIN SMALL LETTER L WITH MIDDLE TILDE
+      4 ʊ	ʊ      LATIN SMALL LETTER UPSILON
+      4 ʋ	ʋ      LATIN SMALL LETTER V WITH HOOK
+      4 ʲ	ʲ      MODIFIER LETTER SMALL J
+      4 ʿ	ʿ      MODIFIER LETTER LEFT HALF RING
+      4 ˀ	ˀ      MODIFIER LETTER GLOTTAL STOP
+      4 ψ	ψ      GREEK SMALL LETTER PSI
+      4 ϲ	ϲ      GREEK LUNATE SIGMA SYMBOL
+      4 қ	қ      CYRILLIC SMALL LETTER KA WITH DESCENDER
+      4 Խ	Խ      ARMENIAN CAPITAL LETTER XEH
+      4 Կ	Կ      ARMENIAN CAPITAL LETTER KEN
+      4 Յ	Յ      ARMENIAN CAPITAL LETTER YI
+      4 շ	շ      ARMENIAN SMALL LETTER SHA
+      4 پ	پ      ARABIC LETTER PEH
+      4 ܒ	ܒ      SYRIAC LETTER BETH
+      4 ܛ	ܛ      SYRIAC LETTER TETH
+      4 ण	ण      DEVANAGARI LETTER NNA
+      4 ம	ம      TAMIL LETTER MA
+      4 ท	ท      THAI CHARACTER THO THAHAN
+      4 ร	ร      THAI CHARACTER RO RUA
+      4 ล	ล      THAI CHARACTER LO LING
+      4 བ	བ      TIBETAN LETTER BA
+      4 დ	დ      GEORGIAN LETTER DON
+      4 ქ	ქ      GEORGIAN LETTER KHAR
+      4 ያ	ያ      ETHIOPIC SYLLABLE YAA
+      4 ᐎ	ᐎ      CANADIAN SYLLABICS WI
+      4 ᐧ	ᐧ      CANADIAN SYLLABICS FINAL MIDDLE DOT
+      4 ᑐ	ᑐ      CANADIAN SYLLABICS TO
+      4 ᑕ	ᑕ      CANADIAN SYLLABICS TA
+      4 ᑯ	ᑯ      CANADIAN SYLLABICS KO
+      4 ᒃ	ᒃ      CANADIAN SYLLABICS K
+      4 ᓄ	ᓄ      CANADIAN SYLLABICS NO
+      4 ẗ	ẗ      LATIN SMALL LETTER T WITH DIAERESIS
+      4 Ἐ	Ἐ      GREEK CAPITAL LETTER EPSILON WITH PSILI
+      4 Ἑ	Ἑ      GREEK CAPITAL LETTER EPSILON WITH DASIA
+      4 ἴ	ἴ      GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
+      4 ὶ	ὶ      GREEK SMALL LETTER IOTA WITH VARIA
+      4 ⴱ	ⴱ      TIFINAGH LETTER YAB
+      4 ⴼ	ⴼ      TIFINAGH LETTER YAF
+      4 ⵖ	ⵖ      TIFINAGH LETTER YAGH
+      4 ア	ア      KATAKANA LETTER A
+      4 オ	オ      KATAKANA LETTER O
+      4 カ	カ      KATAKANA LETTER KA
+      4 キ	キ      KATAKANA LETTER KI
+      4 チ	チ      KATAKANA LETTER TI
+      4 マ	マ      KATAKANA LETTER MA
+      4 モ	モ      KATAKANA LETTER MO
+      4 三	三      CJK character Nelson    8
+      4 下	下      CJK character Nelson    9
+      4 中	中      CJK character Nelson   81
+      4 体	体      CJK character Nelson  405
+      4 号	号      CJK character Nelson  882
+      4 司	司      CJK character Nelson  877
+      4 四	四      CJK character Nelson 1025
+      4 士	士      CJK character Nelson 1160
+      4 天	天      CJK character Nelson   16
+      4 姓	姓      CJK character Nelson 1203
+      4 川	川      CJK character Nelson 1447
+      4 文	文      CJK character Nelson 2064
+      4 林	林      CJK character Nelson 2210
+      4 氏	氏      CJK character Nelson 2478
+      4 洲	洲      CJK character Nelson 2539
+      4 爆	爆      CJK character Nelson 2818
+      4 珠	珠      CJK character Nelson 2936
+      4 生	生      CJK character Nelson 2991
+      4 田	田      CJK character Nelson 2994
+      4 男	男      CJK character Nelson 2996
+      4 画	画      CJK character Nelson   50,3721
+      4 語	語      CJK character Nelson 4374
+      4 諡	諡      CJK character Nelson 4398
+      4 路	路      CJK character Nelson 4561
+      4 道	道      CJK character Nelson 4724
+      4 長	長      CJK character Nelson 4938
+      4 體	體      CJK character Nelson 5245
+      4 龍	龍      CJK character Nelson 3351,5440
+      4 𐤆	𐤆      PHOENICIAN LETTER ZAI
+      4 𒁺	𒁺      CUNEIFORM SIGN DU
+      4 𒂵	𒂵      CUNEIFORM SIGN GA
+      5 ®	®      REGISTERED SIGN
+      5 ³	³      SUPERSCRIPT THREE
+      5 ē	ē      LATIN SMALL LETTER E WITH MACRON
+      5 ū	ū      LATIN SMALL LETTER U WITH MACRON
+      5 ʾ	ʾ      MODIFIER LETTER RIGHT HALF RING
+      5 ј	ј      CYRILLIC SMALL LETTER JE
+      5 ў	ў      CYRILLIC SMALL LETTER SHORT U
+      5 Տ	Տ      ARMENIAN CAPITAL LETTER TIWN
+      5 ظ	ظ      ARABIC LETTER ZAH
+      5 ܣ	ܣ      SYRIAC LETTER SEMKATH
+      5 ड	ड      DEVANAGARI LETTER DDA
+      5 द	द      DEVANAGARI LETTER DA
+      5 प	प      DEVANAGARI LETTER PA
+      5 य	य      DEVANAGARI LETTER YA
+      5 ह	ह      DEVANAGARI LETTER HA
+      5 ी	ी      DEVANAGARI VOWEL SIGN II
+      5 া	া      BENGALI VOWEL SIGN AA
+      5 ก	ก      THAI CHARACTER KO KAI
+      5 น	น      THAI CHARACTER NO NU
+      5 เ	เ      THAI CHARACTER SARA E
+      5 კ	კ      GEORGIAN LETTER KAN
+      5 ስ	ስ      ETHIOPIC SYLLABLE SE
+      5 ን	ን      ETHIOPIC SYLLABLE NE
+      5 ᐠ	ᐠ      CANADIAN SYLLABICS FINAL GRAVE
+      5 ᐱ	ᐱ      CANADIAN SYLLABICS PI
+      5 ᑭ	ᑭ      CANADIAN SYLLABICS KI
+      5 ᒪ	ᒪ      CANADIAN SYLLABICS MA
+      5 ᓯ	ᓯ      CANADIAN SYLLABICS SI
+      5 ᚨ	ᚨ      RUNIC LETTER ANSUZ A
+      5 ḫ	ḫ      LATIN SMALL LETTER H WITH BREVE BELOW
+      5 ἡ	ἡ      GREEK SMALL LETTER ETA WITH DASIA
+      5 ᾶ	ᾶ      GREEK SMALL LETTER ALPHA WITH PERISPOMENI
+      5 ​	        ZERO WIDTH SPACE
+      5 り	り      HIRAGANA LETTER RI
+      5 ド	ド      KATAKANA LETTER DO
+      5 リ	リ      KATAKANA LETTER RI
+      5 一	一      CJK character Nelson    1
+      5 上	上      CJK character Nelson  798
+      5 公	公      CJK character Nelson  579
+      5 原	原      CJK character Nelson  825
+      5 地	地      CJK character Nelson 1056
+      5 太	太      CJK character Nelson 1172
+      5 夫	夫      CJK character Nelson  164
+      5 安	安      CJK character Nelson 1283
+      5 宮	宮      CJK character Nelson 1310
+      5 歌	歌      CJK character Nelson 2422
+      5 武	武      CJK character Nelson   51
+      5 河	河      CJK character Nelson 2530
+      5 芸	芸      CJK character Nelson 3908
+      5 虎	虎      CJK character Nelson 4105
+      5 野	野      CJK character Nelson 4814
+      5 香	香      CJK character Nelson 5188
+      5 𐤀	𐤀      PHOENICIAN LETTER ALF
+      5 𐤊	𐤊      PHOENICIAN LETTER KAF
+      5 𒀭	𒀭      CUNEIFORM SIGN AN
+      6 ´	´      ACUTE ACCENT
+      6 Í	Í      LATIN CAPITAL LETTER I WITH ACUTE
+      6 î	î      LATIN SMALL LETTER I WITH CIRCUMFLEX
+      6 õ	õ      LATIN SMALL LETTER O WITH TILDE
+      6 ǔ	ǔ      LATIN SMALL LETTER U WITH CARON
+      6 ɾ	ɾ      LATIN SMALL LETTER R WITH FISHHOOK
+      6 ʌ	ʌ      LATIN SMALL LETTER TURNED V
+      6 Ω	Ω      GREEK CAPITAL LETTER OMEGA
+      6 ϵ	ϵ      GREEK LUNATE EPSILON SYMBOL
+      6 ћ	ћ      CYRILLIC SMALL LETTER TSHE
+      6 Լ	Լ      ARMENIAN CAPITAL LETTER LIWN
+      6 գ	գ      ARMENIAN SMALL LETTER GIM
+      6 դ	դ      ARMENIAN SMALL LETTER DA
+      6 փ	փ      ARMENIAN SMALL LETTER PIWR
+      6 ך	ך      HEBREW LETTER FINAL KAF
+      6 گ	گ      ARABIC LETTER GAF
+      6 ܡ	ܡ      SYRIAC LETTER MIM
+      6 क	क      DEVANAGARI LETTER KA
+      6 ப	ப      TAMIL LETTER PA
+      6 า	า      THAI CHARACTER SARA AA
+      6 ᐃ	ᐃ      CANADIAN SYLLABICS I
+      6 ᐦ	ᐦ      CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES
+      6 ᑲ	ᑲ      CANADIAN SYLLABICS KA
+      6 ṣ	ṣ      LATIN SMALL LETTER S WITH DOT BELOW
+      6 ἑ	ἑ      GREEK SMALL LETTER EPSILON WITH DASIA
+      6 ⅓	⅓      VULGAR FRACTION ONE THIRD
+      6 ⵎ	ⵎ      TIFINAGH LETTER YAM
+      6 ん	ん      HIRAGANA LETTER N
+      6 仁	仁      CJK character Nelson  349
+      6 國	國      CJK character Nelson 1042
+      6 市	市      CJK character Nelson  284
+      6 平	平      CJK character Nelson   26
+      6 松	松      CJK character Nelson 2212
+      6 王	王      CJK character Nelson 2922
+      6 真	真      CJK character Nelson  783
+      6 藏	藏      CJK character Nelson 4078
+      6 藤	藤      CJK character Nelson 4090
+      6 西	西      CJK character Nelson 4273
+      6 𐤂	𐤂      PHOENICIAN LETTER GAML
+      6 𒆠	𒆠      CUNEIFORM SIGN KI
+      7 Á	Á      LATIN CAPITAL LETTER A WITH ACUTE
+      7 ç	ç      LATIN SMALL LETTER C WITH CEDILLA
+      7 đ	đ      LATIN SMALL LETTER D WITH STROKE
+      7 ī	ī      LATIN SMALL LETTER I WITH MACRON
+      7 ş	ş      LATIN SMALL LETTER S WITH CEDILLA
+      7 ɜ	ɜ      LATIN SMALL LETTER REVERSED OPEN E
+      7 ʦ	ʦ      LATIN SMALL LETTER TS DIGRAPH
+      7 Ζ	Ζ      GREEK CAPITAL LETTER ZETA
+      7 ζ	ζ      GREEK SMALL LETTER ZETA
+      7 Թ	Թ      ARMENIAN CAPITAL LETTER TO
+      7 լ	լ      ARMENIAN SMALL LETTER LIWN
+      7 ث	ث      ARABIC LETTER THEH
+      7 ذ	ذ      ARABIC LETTER THAL
+      7 ܫ	ܫ      SYRIAC LETTER SHIN
+      7 ग	ग      DEVANAGARI LETTER GA
+      7 न	न      DEVANAGARI LETTER NA
+      7 ტ	ტ      GEORGIAN LETTER TAR
+      7 ᓇ	ᓇ      CANADIAN SYLLABICS NA
+      7 ḍ	ḍ      LATIN SMALL LETTER D WITH DOT BELOW
+      7 ṭ	ṭ      LATIN SMALL LETTER T WITH DOT BELOW
+      7 ἄ	ἄ      GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
+      7 Ἄ	Ἄ      GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+      7 Ἡ	Ἡ      GREEK CAPITAL LETTER ETA WITH DASIA
+      7 Ἰ	Ἰ      GREEK CAPITAL LETTER IOTA WITH PSILI
+      7 ὰ	ὰ      GREEK SMALL LETTER ALPHA WITH VARIA
+      7 ῶ	ῶ      GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+      7 ♥	♥      BLACK HEART SUIT
+      7 の	の      HIRAGANA LETTER NO
+      7 ク	ク      KATAKANA LETTER KU
+      7 ー	ー      KATAKANA-HIRAGANA PROLONGED SOUND MARK
+      7 国	国      CJK character Nelson 1037
+      7 山	山      CJK character Nelson 1407
+      7 島	島      CJK character Nelson 5343, 230
+      7 李	李      CJK character Nelson 2179
+      7 號	號      Unknown character in range CJK Unified Ideographs
+      7 郎	郎      CJK character Nelson 4762,4763
+      7 都	都      CJK character Nelson 4769
+      7 𐤐	𐤐      PHOENICIAN LETTER PE
+      8 Å	Å      LATIN CAPITAL LETTER A WITH RING ABOVE
+      8 Æ	Æ      LATIN CAPITAL LETTER AE
+      8 ì	ì      LATIN SMALL LETTER I WITH GRAVE
+      8 ý	ý      LATIN SMALL LETTER Y WITH ACUTE
+      8 þ	þ      LATIN SMALL LETTER THORN
+      8 ō	ō      LATIN SMALL LETTER O WITH MACRON
+      8 ʷ	ʷ      MODIFIER LETTER SMALL W
+      8 Ά	Ά      GREEK CAPITAL LETTER ALPHA WITH TONOS
+      8 Ж	Ж      CYRILLIC CAPITAL LETTER ZHE
+      8 չ	չ      ARMENIAN SMALL LETTER CHA
+      8 ռ	ռ      ARMENIAN SMALL LETTER RA
+      8 ܢ	ܢ      SYRIAC LETTER NUN
+      8 ܬ	ܬ      SYRIAC LETTER TAW
+      8 ு	ு      TAMIL VOWEL SIGN U
+      8 ნ	ნ      GEORGIAN LETTER NAR
+      8 ᐢ	ᐢ      CANADIAN SYLLABICS FINAL TOP HALF RING
+      8 ἔ	ἔ      GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
+      8 ⅔	⅔      VULGAR FRACTION TWO THIRDS
+      8 −	−      MINUS SIGN
+      8 ⵏ	ⵏ      TIFINAGH LETTER YAN
+      8 ⵜ	ⵜ      TIFINAGH LETTER YAT
+      8 ス	ス      KATAKANA LETTER SU
+      8 ト	ト      KATAKANA LETTER TO
+      8 木	木      CJK character Nelson 2170
+      9 ^	^      CIRCUMFLEX ACCENT
+      9 `	`      GRAVE ACCENT
+      9 ġ	ġ      LATIN SMALL LETTER G WITH DOT ABOVE
+      9 ũ	ũ      LATIN SMALL LETTER U WITH TILDE
+      9 ɲ	ɲ      LATIN SMALL LETTER N WITH LEFT HOOK
+      9 І	І      CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I
+      9 Գ	Գ      ARMENIAN CAPITAL LETTER GIM
+      9 ճ	ճ      ARMENIAN SMALL LETTER CHEH
+      9 آ	آ      ARABIC LETTER ALEF WITH MADDA ABOVE
+      9 ض	ض      ARABIC LETTER DAD
+      9 த	த      TAMIL LETTER TA
+      9 ி	ி      TAMIL VOWEL SIGN I
+      9 მ	მ      GEORGIAN LETTER MAN
+      9 უ	უ      GEORGIAN LETTER UN
+      9 ᓂ	ᓂ      CANADIAN SYLLABICS NI
+      9 ḥ	ḥ      LATIN SMALL LETTER H WITH DOT BELOW
+      9 Ἱ	Ἱ      GREEK CAPITAL LETTER IOTA WITH DASIA
+      9 ὁ	ὁ      GREEK SMALL LETTER OMICRON WITH DASIA
+      9 ル	ル      KATAKANA LETTER RU
+      9 日	日      CJK character Nelson 2097
+      9 𐤒	𐤒      PHOENICIAN LETTER QOF
+     10 ğ	ğ      LATIN SMALL LETTER G WITH BREVE
+     10 ı	ı      LATIN SMALL LETTER DOTLESS I
+     10 œ	œ      LATIN SMALL LIGATURE OE
+     10 ї	ї      CYRILLIC SMALL LETTER YI
+     10 Վ	Վ      ARMENIAN CAPITAL LETTER VEW
+     10 պ	պ      ARMENIAN SMALL LETTER PEH
+     10 ܕ	ܕ      SYRIAC LETTER DALATH
+     10 ბ	ბ      GEORGIAN LETTER BAN
+     10 ვ	ვ      GEORGIAN LETTER VIN
+     10 თ	თ      GEORGIAN LETTER TAN
+     10 ὀ	ὀ      GREEK SMALL LETTER OMICRON WITH PSILI
+     10 ⵉ	ⵉ      TIFINAGH LETTER YI
+     10 ラ	ラ      KATAKANA LETTER RA
+     10 本	本      CJK character Nelson   96
+     10 𐤁	𐤁      PHOENICIAN LETTER BET
+     11 è	è      LATIN SMALL LETTER E WITH GRAVE
+     11 ĩ	ĩ      LATIN SMALL LETTER I WITH TILDE
+     11 ʰ	ʰ      MODIFIER LETTER SMALL H
+     11 ϊ	ϊ      GREEK SMALL LETTER IOTA WITH DIALYTIKA
+     11 Ե	Ե      ARMENIAN CAPITAL LETTER ECH
+     11 թ	թ      ARMENIAN SMALL LETTER TO
+     11 ء	ء      ARABIC LETTER HAMZA
+     11 إ	إ      ARABIC LETTER ALEF WITH HAMZA BELOW
+     11 म	म      DEVANAGARI LETTER MA
+     11 र	र      DEVANAGARI LETTER RA
+     11 Ἁ	Ἁ      GREEK CAPITAL LETTER ALPHA WITH DASIA
+     11 ♀	♀      FEMALE SIGN
+     11 ♂	♂      MALE SIGN
+     11 ッ	ッ      KATAKANA LETTER SMALL TU
+     11 子	子      CJK character Nelson 1264
+     12 ã	ã      LATIN SMALL LETTER A WITH TILDE
+     12 Ł	Ł      LATIN CAPITAL LETTER L WITH STROKE
+     12 Λ	Λ      GREEK CAPITAL LETTER LAMDA
+     12 ئ	ئ      ARABIC LETTER YEH WITH HAMZA ABOVE
+     12 ო	ო      GEORGIAN LETTER ON
+     12 ᐊ	ᐊ      CANADIAN SYLLABICS A
+     12 ṷ	ṷ      LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW
+     12 京	京      CJK character Nelson  295
+     12 大	大      CJK character Nelson 1171
+     12 小	小      CJK character Nelson 1355
+     12 東	東      CJK character Nelson  213
+     12 𐤇	𐤇      PHOENICIAN LETTER HET
+     13 ɐ	ɐ      LATIN SMALL LETTER TURNED A
+     13 ʀ	ʀ      LATIN LETTER SMALL CAPITAL R
+     13 Γ	Γ      GREEK CAPITAL LETTER GAMMA
+     13 Ш	Ш      CYRILLIC CAPITAL LETTER SHA
+     13 Э	Э      CYRILLIC CAPITAL LETTER E
+     13 Ю	Ю      CYRILLIC CAPITAL LETTER YU
+     13 Մ	Մ      ARMENIAN CAPITAL LETTER MEN
+     13 ծ	ծ      ARMENIAN SMALL LETTER CA
+     13 հ	հ      ARMENIAN SMALL LETTER HO
+     13 ὸ	ὸ      GREEK SMALL LETTER OMICRON WITH VARIA
+     13 ン	ン      KATAKANA LETTER N
+     14 ć	ć      LATIN SMALL LETTER C WITH ACUTE
+     14 ž	ž      LATIN SMALL LETTER Z WITH CARON
+     14 ʒ	ʒ      LATIN SMALL LETTER EZH
+     14 Θ	Θ      GREEK CAPITAL LETTER THETA
+     14 Ν	Ν      GREEK CAPITAL LETTER NU
+     14 Χ	Χ      GREEK CAPITAL LETTER CHI
+     14 ܘ	ܘ      SYRIAC LETTER WAW
+     14 ἐ	ἐ      GREEK SMALL LETTER EPSILON WITH PSILI
+     14 ῦ	ῦ      GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+     14 名	名      CJK character Nelson 1170
+     14 海	海      CJK character Nelson 2553,2556
+     14 𐤋	𐤋      PHOENICIAN LETTER LAMD
+     14 𐤌	𐤌      PHOENICIAN LETTER MEM
+     14 𐤏	𐤏      PHOENICIAN LETTER AIN
+     14 𐤕	𐤕      PHOENICIAN LETTER TAU
+     15 å	å      LATIN SMALL LETTER A WITH RING ABOVE
+     15 ā	ā      LATIN SMALL LETTER A WITH MACRON
+     15 Š	Š      LATIN CAPITAL LETTER S WITH CARON
+     15 ǧ	ǧ      LATIN SMALL LETTER G WITH CARON
+     15 ю	ю      CYRILLIC SMALL LETTER YU
+     15 Ա	Ա      ARMENIAN CAPITAL LETTER AYB
+     15 צ	צ      HEBREW LETTER TSADI
+     15 ܪ	ܪ      SYRIAC LETTER RISH
+     15 რ	რ      GEORGIAN LETTER RAE
+     15 ἰ	ἰ      GREEK SMALL LETTER IOTA WITH PSILI
+     15 字	字      CJK character Nelson 1281
+     15 𐤍	𐤍      PHOENICIAN LETTER NUN
+     15 𐤓	𐤓      PHOENICIAN LETTER ROSH
+     16 °	°      DEGREE SIGN
+     16 À	À      LATIN CAPITAL LETTER A WITH GRAVE
+     16 ł	ł      LATIN SMALL LETTER L WITH STROKE
+     16 ȟ	ȟ      LATIN SMALL LETTER H WITH CARON
+     16 ɣ	ɣ      LATIN SMALL LETTER GAMMA
+     16 Τ	Τ      GREEK CAPITAL LETTER TAU
+     16 Я	Я      CYRILLIC CAPITAL LETTER YA
+     16 ט	ט      HEBREW LETTER TET
+     16 غ	غ      ARABIC LETTER GHAIN
+     16 ा	ा      DEVANAGARI VOWEL SIGN AA
+     16 ὐ	ὐ      GREEK SMALL LETTER UPSILON WITH PSILI
+     17 ɑ	ɑ      LATIN SMALL LETTER ALPHA
+     17 ʁ	ʁ      LATIN LETTER SMALL CAPITAL INVERTED R
+     17 Ρ	Ρ      GREEK CAPITAL LETTER RHO
+     17 ლ	ლ      GEORGIAN LETTER LAS
+     17 ⴰ	ⴰ      TIFINAGH LETTER YA
+     18 Þ	Þ      LATIN CAPITAL LETTER THORN
+     18 ø	ø      LATIN SMALL LETTER O WITH STROKE
+     18 Ο	Ο      GREEK CAPITAL LETTER OMICRON
+     18 Φ	Φ      GREEK CAPITAL LETTER PHI
+     18 ъ	ъ      CYRILLIC SMALL LETTER HARD SIGN
+     18 ῆ	ῆ      GREEK SMALL LETTER ETA WITH PERISPOMENI
+     18 →	→      RIGHTWARDS ARROW
+     19 Հ	Հ      ARMENIAN CAPITAL LETTER HO
+     20 ½	½      VULGAR FRACTION ONE HALF
+     20 ò	ò      LATIN SMALL LETTER O WITH GRAVE
+     20 ː	ː      MODIFIER LETTER TRIANGULAR COLON
+     20 щ	щ      CYRILLIC SMALL LETTER SHCHA
+     21 ß	ß      LATIN SMALL LETTER SHARP S
+     21 Ч	Ч      CYRILLIC CAPITAL LETTER CHE
+     21 մ	մ      ARMENIAN SMALL LETTER MEN
+     21 ى	ى      ARABIC LETTER ALEF MAKSURA
+     22 æ	æ      LATIN SMALL LETTER AE
+     22 ე	ე      GEORGIAN LETTER EN
+     22 ს	ს      GEORGIAN LETTER SAN
+     23 ²	²      SUPERSCRIPT TWO
+     23 ց	ց      ARMENIAN SMALL LETTER CO
+     23 ג	ג      HEBREW LETTER GIMEL
+     23 ک	ک      ARABIC LETTER KEHEH
+     23 ܝ	ܝ      SYRIAC LETTER YUDH
+     24 ʔ	ʔ      LATIN LETTER GLOTTAL STOP
+     24 ս	ս      ARMENIAN SMALL LETTER SEH
+     24 פ	פ      HEBREW LETTER PE
+     25 э	э      CYRILLIC SMALL LETTER E
+     26 ἀ	ἀ      GREEK SMALL LETTER ALPHA WITH PSILI
+     27 Δ	Δ      GREEK CAPITAL LETTER DELTA
+     27 ώ	ώ      GREEK SMALL LETTER OMEGA WITH TONOS
+     27 Ф	Ф      CYRILLIC CAPITAL LETTER EF
+     27 ղ	ղ      ARMENIAN SMALL LETTER GHAD
+     27 ז	ז      HEBREW LETTER ZAYIN
+     27 ܐ	ܐ      SYRIAC LETTER ALAPH
+     28 ǝ	ǝ      LATIN SMALL LETTER TURNED E
+     28 Ι	Ι      GREEK CAPITAL LETTER IOTA
+     28 տ	տ      ARMENIAN SMALL LETTER TIWN
+     29 Β	Β      GREEK CAPITAL LETTER BETA
+     29 ξ	ξ      GREEK SMALL LETTER XI
+     29 أ	أ      ARABIC LETTER ALEF WITH HAMZA ABOVE
+     30 ɔ	ɔ      LATIN SMALL LETTER OPEN O
+     30 ɪ	ɪ      LATIN LETTER SMALL CAPITAL I
+     30 ʧ	ʧ      LATIN SMALL LETTER TESH DIGRAPH
+     30 յ	յ      ARMENIAN SMALL LETTER YI
+     30 ῖ	ῖ      GREEK SMALL LETTER IOTA WITH PERISPOMENI
+     31 č	č      LATIN SMALL LETTER C WITH CARON
+     31 š	š      LATIN SMALL LETTER S WITH CARON
+     31 կ	կ      ARMENIAN SMALL LETTER KEN
+     31 ք	ք      ARMENIAN SMALL LETTER KEH
+     31 خ	خ      ARABIC LETTER KHAH
+     32 բ	բ      ARMENIAN SMALL LETTER BEN
+     32 ص	ص      ARABIC LETTER SAD
+     32 ა	ა      GEORGIAN LETTER AN
+     33 Đ	Đ      LATIN CAPITAL LETTER D WITH STROKE
+     33 ʤ	ʤ      LATIN SMALL LETTER DEZH DIGRAPH
+     34 Ἀ	Ἀ      GREEK CAPITAL LETTER ALPHA WITH PSILI
+     35 З	З      CYRILLIC CAPITAL LETTER ZE
+     35 ش	ش      ARABIC LETTER SHEEN
+     36 ё	ё      CYRILLIC SMALL LETTER IO
+     36 Ս	Ս      ARMENIAN CAPITAL LETTER SEH
+     36 כ	כ      HEBREW LETTER KAF
+     37 ი	ი      GEORGIAN LETTER IN
+     38 ð	ð      LATIN SMALL LETTER ETH
+     39 ¹	¹      SUPERSCRIPT ONE
+     39 Е	Е      CYRILLIC CAPITAL LETTER IE
+     39 ס	ס      HEBREW LETTER SAMEKH
+     40 վ	վ      ARMENIAN SMALL LETTER VEW
+     40 ן	ן      HEBREW LETTER FINAL NUN
+     40 ‬	‬      POP DIRECTIONAL FORMATTING
+     41 ˈ	ˈ      MODIFIER LETTER VERTICAL LINE
+     41 ח	ח      HEBREW LETTER HET
+     42 ك	ك      ARABIC LETTER KAF
+     43 Σ	Σ      GREEK CAPITAL LETTER SIGMA
+     43 ط	ط      ARABIC LETTER TAH
+     43 ی	ی      ARABIC LETTER FARSI YEH
+     44 ز	ز      ARABIC LETTER ZAIN
+     45 ɛ	ɛ      LATIN SMALL LETTER OPEN E
+     45 ւ	ւ      ARMENIAN SMALL LETTER YIWN
+     46 £	£      POUND SIGN
+     46 О	О      CYRILLIC CAPITAL LETTER O
+     46 ק	ק      HEBREW LETTER QOF
+     47 ƒ	ƒ      LATIN SMALL LETTER F WITH HOOK
+     48 ʃ	ʃ      LATIN SMALL LETTER ESH
+     48 Α	Α      GREEK CAPITAL LETTER ALPHA
+     49 ɡ	ɡ      LATIN SMALL LETTER SCRIPT G
+     50 |	|      VERTICAL LINE
+     50 ه	ه      ARABIC LETTER HEH
+     51 $	$      DOLLAR SIGN
+     51 á	á      LATIN SMALL LETTER A WITH ACUTE
+     51 Л	Л      CYRILLIC CAPITAL LETTER EL
+     52 í	í      LATIN SMALL LETTER I WITH ACUTE
+     52 Ε	Ε      GREEK CAPITAL LETTER EPSILON
+     56 Κ	Κ      GREEK CAPITAL LETTER KAPPA
+     56 Μ	Μ      GREEK CAPITAL LETTER MU
+     57 ф	ф      CYRILLIC SMALL LETTER EF
+     58 У	У      CYRILLIC CAPITAL LETTER U
+     58 ت	ت      ARABIC LETTER TEH
+     59 ד	ד      HEBREW LETTER DALET
+     59 ם	ם      HEBREW LETTER FINAL MEM
+     60 β	β      GREEK SMALL LETTER BETA
+     60 ف	ف      ARABIC LETTER FEH
+     62 ŋ	ŋ      LATIN SMALL LETTER ENG
+     62 Х	Х      CYRILLIC CAPITAL LETTER HA
+     63 ə	ə      LATIN SMALL LETTER SCHWA
+     63 Π	Π      GREEK CAPITAL LETTER PI
+     66 Ц	Ц      CYRILLIC CAPITAL LETTER TSE
+     67 נ	נ      HEBREW LETTER NUN
+     68 ق	ق      ARABIC LETTER QAF
+     70 <	<      LESS-THAN SIGN
+     70 ح	ح      ARABIC LETTER HAH
+     71 Д	Д      CYRILLIC CAPITAL LETTER DE
+     73 ע	ע      HEBREW LETTER AYIN
+     74 ύ	ύ      GREEK SMALL LETTER UPSILON WITH TONOS
+     74 ш	ш      CYRILLIC SMALL LETTER SHA
+     76 ի	ի      ARMENIAN SMALL LETTER INI
+     78 ե	ե      ARMENIAN SMALL LETTER ECH
+     79 Г	Г      CYRILLIC CAPITAL LETTER GHE
+     80 ɹ	ɹ      LATIN SMALL LETTER TURNED R
+     80 ո	ո      ARMENIAN SMALL LETTER VO
+     80 ج	ج      ARABIC LETTER JEEM
+     81 χ	χ      GREEK SMALL LETTER CHI
+     83 ع	ع      ARABIC LETTER AIN
+     89 έ	έ      GREEK SMALL LETTER EPSILON WITH TONOS
+     90 ×	×      MULTIPLICATION SIGN
+     91 И	И      CYRILLIC CAPITAL LETTER I
+     91 і	і      CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
+     92 ל	ל      HEBREW LETTER LAMED
+     93 Р	Р      CYRILLIC CAPITAL LETTER ER
+     94 ж	ж      CYRILLIC SMALL LETTER ZHE
+     94 ր	ր      ARMENIAN SMALL LETTER REH
+     97 Т	Т      CYRILLIC CAPITAL LETTER TE
+     98 ~	~      TILDE
+     99 ն	ն      ARMENIAN SMALL LETTER NOW
+     99 מ	מ      HEBREW LETTER MEM
+    100 φ	φ      GREEK SMALL LETTER PHI
+    100 ב	ב      HEBREW LETTER BET
+    101 θ	θ      GREEK SMALL LETTER THETA
+    101 Н	Н      CYRILLIC CAPITAL LETTER EN
+    101 ש	ש      HEBREW LETTER SHIN
+    104 ת	ת      HEBREW LETTER TAV
+    107 א	א      HEBREW LETTER ALEF
+    110 ή	ή      GREEK SMALL LETTER ETA WITH TONOS
+    111 ة	ة      ARABIC LETTER TEH MARBUTA
+    114 €	€      EURO SIGN
+    124 ω	ω      GREEK SMALL LETTER OMEGA
+    128 х	х      CYRILLIC SMALL LETTER HA
+    135 δ	δ      GREEK SMALL LETTER DELTA
+    137 ‎	        LEFT-TO-RIGHT MARK
+    139 з	з      CYRILLIC SMALL LETTER ZE
+    141 Б	Б      CYRILLIC CAPITAL LETTER BE
+    142 و	و      ARABIC LETTER WAW
+    145 ά	ά      GREEK SMALL LETTER ALPHA WITH TONOS
+    146 +	+      PLUS SIGN
+    146 М	М      CYRILLIC CAPITAL LETTER EM
+    147 ό	ό      GREEK SMALL LETTER OMICRON WITH TONOS
+    149 د	د      ARABIC LETTER DAL
+    151 س	س      ARABIC LETTER SEEN
+    153 ה	ה      HEBREW LETTER HE
+    158 η	η      GREEK SMALL LETTER ETA
+    164 А	А      CYRILLIC CAPITAL LETTER A
+    169 υ	υ      GREEK SMALL LETTER UPSILON
+    169 В	В      CYRILLIC CAPITAL LETTER VE
+    172 ו	ו      HEBREW LETTER VAV
+    175 ר	ר      HEBREW LETTER RESH
+    177 م	م      ARABIC LETTER MEEM
+    179 К	К      CYRILLIC CAPITAL LETTER KA
+    179 ա	ա      ARMENIAN SMALL LETTER AYB
+    181 μ	μ      GREEK SMALL LETTER MU
+    183 γ	γ      GREEK SMALL LETTER GAMMA
+    183 П	П      CYRILLIC CAPITAL LETTER PE
+    188 ب	ب      ARABIC LETTER BEH
+    198 ί	ί      GREEK SMALL LETTER IOTA WITH TONOS
+    199 п	п      CYRILLIC SMALL LETTER PE
+    202 >	>      GREATER-THAN SIGN
+    202 ц	ц      CYRILLIC SMALL LETTER TSE
+    203 ن	ن      ARABIC LETTER NOON
+    204 π	π      GREEK SMALL LETTER PI
+    221 κ	κ      GREEK SMALL LETTER KAPPA
+    228 σ	σ      GREEK SMALL LETTER SIGMA
+    238 ●	●      BLACK CIRCLE
+    239 ر	ر      ARABIC LETTER REH
+    241 ч	ч      CYRILLIC SMALL LETTER CHE
+    250 С	С      CYRILLIC CAPITAL LETTER ES
+    254 ي	ي      ARABIC LETTER YEH
+    260 ε	ε      GREEK SMALL LETTER EPSILON
+    275 ы	ы      CYRILLIC SMALL LETTER YERU
+    276 י	י      HEBREW LETTER YOD
+    278 у	у      CYRILLIC SMALL LETTER U
+    280  	        NO-BREAK SPACE
+    286 г	г      CYRILLIC SMALL LETTER GHE
+    318 б	б      CYRILLIC SMALL LETTER BE
+    324 ل	ل      ARABIC LETTER LAM
+    339 λ	λ      GREEK SMALL LETTER LAMDA
+    342 τ	τ      GREEK SMALL LETTER TAU
+    363 à	à      LATIN SMALL LETTER A WITH GRAVE
+    376 ρ	ρ      GREEK SMALL LETTER RHO
+    379 д	д      CYRILLIC SMALL LETTER DE
+    386 ι	ι      GREEK SMALL LETTER IOTA
+    423 я	я      CYRILLIC SMALL LETTER YA
+    439 =	=      EQUALS SIGN
+    444 м	м      CYRILLIC SMALL LETTER EM
+    466 ا	ا      ARABIC LETTER ALEF
+    467 ν	ν      GREEK SMALL LETTER NU
+    477 ς	ς      GREEK SMALL LETTER FINAL SIGMA
+    497 ь	ь      CYRILLIC SMALL LETTER SOFT SIGN
+    517 й	й      CYRILLIC SMALL LETTER SHORT I
+    605 α	α      GREEK SMALL LETTER ALPHA
+    711 ±	±      PLUS-MINUS SIGN
+    712 ο	ο      GREEK SMALL LETTER OMICRON
+    739 т	т      CYRILLIC SMALL LETTER TE
+    833 л	л      CYRILLIC SMALL LETTER EL
+   1051 в	в      CYRILLIC SMALL LETTER VE
+   1110 к	к      CYRILLIC SMALL LETTER KA
+   1167 н	н      CYRILLIC SMALL LETTER EN
+   1346 с	с      CYRILLIC SMALL LETTER ES
+   1372 е	е      CYRILLIC SMALL LETTER IE
+   1446 р	р      CYRILLIC SMALL LETTER ER
+   1484 и	и      CYRILLIC SMALL LETTER I
+   1895 а	а      CYRILLIC SMALL LETTER A
+   2195 о	о      CYRILLIC SMALL LETTER O

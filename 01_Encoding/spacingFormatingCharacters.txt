@@ -1,0 +1,12 @@
+      1  	glyph   name
+      2 ‌	        HAIR SPACE
+      2 ‍	        ZERO WIDTH NON-JOINER
+      3  	        ZERO WIDTH JOINER
+      4 ‏	       NARROW NO-BREAK SPACE
+      5  	        RIGHT-TO-LEFT MARK
+     17 ​	        THIN SPACE
+     39 ­	        ZERO WIDTH SPACE
+     40 ‬	­      SOFT HYPHEN
+    153 ‎	‬      POP DIRECTIONAL FORMATTING
+  24690  	        LEFT-TO-RIGHT MARK
+15392401  	        NO-BREAK SPACE
