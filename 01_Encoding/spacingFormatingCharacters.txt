@@ -1,4 +1,4 @@
-      1  	glyph   name
+     1  	glyph   name
       2 ‌	        HAIR SPACE
       2 ‍	        ZERO WIDTH NON-JOINER
       3  	        ZERO WIDTH JOINER

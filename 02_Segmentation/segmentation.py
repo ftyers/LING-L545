@@ -8,18 +8,17 @@ with open("abbreviations.txt") as file:
         abbreviations.append(line)
     abbreviations = set(abbreviations)
 
-with open("wiki.txt") as file:
-    for item in file.readlines():
-        while item:
-            for token in item.strip().split(' '):
-                if not token:
-                    continue
-                if token in abbreviations:
-                    sys.stdout.write(token + '\n')
-                elif token[-1] == '.':
-                    if token in abbreviations:
-                        sys.stdout.write(token + ' ')
-                    else: 
-                        sys.stdout.write(token + '\n')
-                else:
-                    sys.stdout.write(token + ' ')
+with open("cleanLinesEncoding.txt") as file:
+	for item in file.readlines():
+		for token in item.strip().split(' '):
+			if not token:
+				continue
+			if token in abbreviations:
+				sys.stdout.write(token + '\n')
+			elif token[-1] == '.':
+				if token in abbreviations:
+					sys.stdout.write(token + ' ')
+				else: 
+					sys.stdout.write(token + '\n')
+			else:
+				sys.stdout.write(token + ' ')
