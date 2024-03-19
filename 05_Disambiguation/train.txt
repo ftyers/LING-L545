@@ -1,0 +1,103 @@
+"<However>"
+	"however" adv
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<Celtic>"
+	"Celtic" adj
+"<identity>"
+	"identity" n sg
+"<for>"
+	"for" cnjadv
+	"for" pr
+"<the>"
+	"the" det def sp
+"<Bastarnae>"
+	"Bastarnae" n pl
+"<is>"
+	"be" vbser pres p3 sg
+"<apparently>"
+	"apparently" adv
+"<contradicted>"
+	"contradict" vblex pp
+	"contradict" vblex past
+"<by>"
+	"by" adv
+	"by" pr
+"<Polybius>"
+	"Polybius" np ant
+"<(>"
+	"(" lpar
+"<writing>"
+	"writing" n sg
+	"write" vblex pprs
+	"write" vblex subs
+	"write" vblex ger
+"<ca.>"
+	"ca." abbr
+"<150>"
+	"150" num
+"<BC>"
+	"BC" abbr
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<who>"
+	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<was>"
+	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<an>"
+	"a" det ind sg
+"<actual>"
+	"actual" adj
+"<contemporary>"
+	"contemporary" adj
+	"contemporary" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<events>"
+	"event" n pl
+"<described>"
+	"describe" vblex past
+	"describe" vblex pp
+"<,>"
+	"," cm
+"<unlike>"
+	"unlike" adj
+	"unlike" pr
+"<Livy>"
+	"Livy" np ant
+"<,>"
+	"," cm
+"<who>"
+	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<was>"
+	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<writing>"
+	"writing" n sg
+	"write" vblex pprs
+	"write" vblex subs
+	"write" vblex ger
+"<some>"
+	"some" adj
+	"some" adv
+	"some" det qnt sp
+	"some" prn ind mf pl
+"<200>"
+	"200" num
+"<years>"
+	"year" n pl
+"<later>"
+	"later" adv
+	"late" adj sint comp
+"<.>"
+	"." sent
+

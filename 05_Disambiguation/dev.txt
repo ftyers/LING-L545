@@ -1,0 +1,146 @@
+"<Polybius>"
+	"Polybius" np
+"<clearly>"
+	"clearly" adv
+"<distinguishes>"
+	"distinguish" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<Bastarnae>"
+	"Bastarnae" n pl
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<">"
+	""" quot
+"<Galatae>"
+	"Galatae" n pl
+"<">"
+	""" quot
+"<(>"
+	"(" lpar
+"<i.e.>"
+	"i.e." abbr
+	"i.e." adv
+"<Celts>"
+	"Celt" n pl
+"<)>"
+	")" rpar
+"<:>"
+	":" sent
+"<">"
+	""" quot
+"<An>"
+	"a" det ind sg
+"<embassy>"
+	"embassy" n sg
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<Dardani>"
+	"Dardani" n pl
+"<arrived>"
+	"arrive" vblex past
+	"arrive" vblex pp
+"<at>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<Roman>"
+	"Roman" adj
+	"Roman" n sg
+	"Roman" np ant m sg
+"<Senate>"
+	"senate" n sg
+"<,>"
+	"," cm
+"<talking>"
+	"talk" vblex pprs
+	"talk" vblex subs
+	"talk" vblex ger
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Bastarnae>"
+	"Bastarnae" n pl
+"<,>"
+	"," cm
+"<their>"
+	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<huge>"
+	"huge" adj
+"<numbers>"
+	"number" n pl
+	"number" vblex pres p3 sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<strength>"
+	"strength" n sg
+"<and>"
+	"and" cnjcoo
+"<valour>"
+	"valour" n sg
+"<of>"
+	"of" pr
+"<their>"
+	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<warriors>"
+	"warrior" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<also>"
+	"also" adv
+"<reporting>"
+	"report" vblex pprs
+	"report" vblex subs
+	"report" vblex ger
+"<that>"
+	"that" cnjsub
+	"that" det dem sg
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<Perseus>"
+	"Perseus" np ant m sg
+"<the>"
+	"the" det def sp
+"<king>"
+	"king" n sg
+"<of>"
+	"of" pr
+"<Macedon>"
+	"Macedon" np top
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<Galatae>"
+	"Galatae" n pl
+"<were>"
+	"be" vbser past
+"<in>"
+	"in" adv
+	"in" pr
+"<league>"
+	"league" n sg
+"<with>"
+	"with" pr
+"<this>"
+	"this" det dem sg
+	"this" prn dem mf sg
+	"this" prn rel an mf sp
+"<tribe>"
+	"tribe" n sg
+"<">"
+	""" quot
+"<.>"
+	"." sent
+
