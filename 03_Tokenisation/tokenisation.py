@@ -19,5 +19,7 @@ def tokenise(line, abbr):
 line = sys.stdin.readline()
 while line:
 	tokens = tokenise(line, abbr)
-	print(' '.join(tokens))
+	print(' '.join(tokens), end = "")
 	line = sys.stdin.readline()
+	if not line:
+		break;
